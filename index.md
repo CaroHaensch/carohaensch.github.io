@@ -7,7 +7,7 @@ layout: default
 [GESIS](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Anna-Carolina.Haensch?no_cache=1)|
 [University of Mannheim](https://www.sowi.uni-mannheim.de/kreuter/team/academic-staff-members/haensch-anna-carolina/)
 
-Welcome! I am passionate about research on missing data, multiple imputation and big data in the social sciences. I also enjoy teaching (a lot) and programming (mostly in R and python). If you have any questions, please feel free to contact me.
+Welcome! I am passionate about research on missing data, multiple imputation and big data in the social sciences. I also enjoy teaching (a lot) and programming (mostly in R and python). If you have any questions, please feel free to contact me!
 
 [Contact](https://twitter.com/CarolinaHaensch) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Current work](#work) |[Teaching](#teaching) |
 
@@ -71,7 +71,7 @@ Kreitzscheck, Mathis, and **Anna-Carolina Haensch**. 2019. "Klopfet an, so wird 
 
 ## Seminars
 
-- Haensch, Anna-Carolina. 2020. "Empirisches Forschungspraktikum II: Big Data in the Social Sciences: Datenanalyse." University of Mannheim. HWS 2019: 4 SWS.
+- Haensch, Anna-Carolina. 2020. "Empirisches Forschungspraktikum II: Big Data in the Social Sciences: Datenanalyse." University of Mannheim. HWS 2020: 4 SWS.
 
 - Haensch, Anna-Carolina. 2020. "Empirisches Forschungspraktikum I: Big Data in the Social Sciences: Datenerhebung."  University of Mannheim. FSS 2020: 2 SWS.
 
