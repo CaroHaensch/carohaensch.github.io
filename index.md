@@ -7,7 +7,7 @@ layout: default
 [GESIS](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Anna-Carolina.Haensch?no_cache=1)|
 [University of Mannheim](https://www.sowi.uni-mannheim.de/kreuter/team/academic-staff-members/haensch-anna-carolina/)
 
-
+Welcome! I am passionate about research on missing data, multiple imputation and big data in the social sciences. I also enjoy teaching (a lot) and programming (mostly in R and python). If you have any questions, please feel free to contact me.
 
 [Contact](https://twitter.com/CarolinaHaensch) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Current work](#work) |[Teaching](#teaching) |
 
@@ -85,9 +85,15 @@ Kreitzscheck, Mathis, and **Anna-Carolina Haensch**. 2019. "Klopfet an, so wird 
 
 - Haensch, Anna-Carolina. 2017. "Übung Datenerhebung."  University of Mannheim. HWS 2017: 2 SWS.
 
-## Tutor
+## Supervised Theses
 
-- Haensch, Anna-Carolina. 2017. "Tutorien Methoden der Politikwissenschaft."  Ludwig-Maximilians-Universität (LMU) München SS 2017: 4x2 SWS.
+- Bachelor Thesis (Sociology, University of Mannheim). 2020. Supervised classification of an open-ended quesion on survey motivation from the GESIS Panel.
+
+## Teaching assistant
+
+- Haensch, Anna-Carolina. 2019. "SURV726: Multiple Imputation." (taught by Jörg Drechsler) International Program in Survey and Data Science. 
+- Haensch, Anna-Carolina. 2019. "SURV725: Item Nonresponse and Imputation." (taught by Jörg Drechsler) International Program in Survey and Data Science. 
+- Haensch, Anna-Carolina. 2017. "Tutorien Methoden der Politikwissenschaft." (taught by Paul Thurner) Ludwig-Maximilians-Universität (LMU) München SS 2017: 4x2 SWS.
 
 ## Other
 
