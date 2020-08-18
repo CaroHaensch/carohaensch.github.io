@@ -9,7 +9,7 @@ layout: default
 
 Welcome! I am passionate about research on missing data, multiple imputation and big data in the social sciences. I also enjoy teaching (a lot) and programming (mostly in R and python). If you have any questions, please feel free to contact me!
 
-[Contact](https://twitter.com/CarolinaHaensch) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Current work](#work) |[Teaching](#teaching) |
+[Contact](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Anna-Carolina.Haensch?no_cache=1) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Current work](#work) |[Teaching](#teaching) |
 
 # Curriculum vitae
 
