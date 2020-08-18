@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[Twitter](https://twitter.com/CarolinaHaensch) | [LinkedIn](https://de.linkedin.com/in/anna-carolina-haensch-626b1b16a) |
+[Twitter](https://twitter.com/CarolinaHaensch) |[LinkedIn](https://de.linkedin.com/in/anna-carolina-haensch-626b1b16a) |
 
-[Contact](https://twitter.com/CarolinaHaensch) | [Curriculum vitae](#curriculum-vitae) | [Publications](#publications) | [Current work](#work) | [Teaching](#teaching) |
+[Contact](https://twitter.com/CarolinaHaensch) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Current work](#work) |[Teaching](#teaching) |
 
 # Curriculum vitae
 
