@@ -15,14 +15,14 @@ layout: default
 
 ### Education
 
-**PhD Student** 10/2017 –  <br>
+**PhD Student** Since 10/2017  <br>
 *University of Mannheim, Germany* <br>
 Dealing with Missing Data in Ex-Post Survey Harmonization in Family Research<br>
 
-**M. Sc., Survey Statistics** 09/2014- 09/2017 <br>
+**M. Sc., Survey Statistics** 09/2014 – 09/2017 <br>
 *University of Bamberg, Bamberg, Germany*<br>
 
-**B. A., Political Science/Sociology** 09/2011 - 09/2014<br>
+**B. A., Political Science/Sociology** 09/2011 – 09/2014<br>
 *Ludwig-Maximilians-Universität (LMU) München, Germany*<br>
 
 
@@ -35,7 +35,7 @@ Dealing with Missing Data in Ex-Post Survey Harmonization in Family Research<br>
 **Doctoral researcher** Since 09/2017 <br>
 *GESIS – Leibniz Institute for the Social Sciences* <br>
 
-**Student assistant** between 2012 and 2017  <br>
+**Student assistant** 2012 – 2017  <br>
 *Institute for Employment Research* (Statistical Methods Centre) <br>
 *Ludwig-Maximilians-Universität (LMU):* Chair of Empirical Political Research and Policy Analysis <br>
 *Leibniz-Institute for Educational Trajectories (LIfBi e.V.)* <br>
