@@ -66,6 +66,8 @@ Kreitzscheck, Mathis, and **Anna-Carolina Haensch**. 2019. "Klopfet an, so wird 
 
 - Systematically missing partner variables and possible multiple imputation strategies (with Reinhard Schunck)
 
+- TippingSens: An R Shiny Application to Facilitate Sensitivity Analysis for Causal Inference Under Confounding (with Jörg Drechsler, Sarah Bernhard)
+
 
 # Teaching
 
