@@ -60,11 +60,11 @@ Kreitzscheck, Mathis, and **Anna-Carolina Haensch**. 2019. "Klopfet an, so wird 
 
 ## Working papers
 
-- Regression analysis of complex survey data with pooled data after ex-post survey harmonization
+- Regression analysis of complex survey data with pooled data after ex-post survey harmonization (with Bernd Weiss)
 
-- Multiple imputation for discrete-time survival analysis 
+- Multiple imputation for discrete-time survival analysis (with Bernd Weiss)
 
-- Systematically missing partner variables and possible multiple imputation strategies
+- Systematically missing partner variables and possible multiple imputation strategies (with Reinhard Schunck)
 
 
 # Teaching
