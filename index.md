@@ -4,7 +4,7 @@ layout: default
 
 [Twitter](https://twitter.com/CarolinaHaensch) |
 [LinkedIn](https://de.linkedin.com/in/anna-carolina-haensch-626b1b16a) |
-[GESIS](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Anna-Carolina.Haensch?no_cache=1)|
+[GESIS Leibniz Institute](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Anna-Carolina.Haensch?no_cache=1)|
 [University of Mannheim](https://www.sowi.uni-mannheim.de/kreuter/team/academic-staff-members/haensch-anna-carolina/)
 
 Welcome! I am passionate about research on missing data, multiple imputation and big data in the social sciences. I also enjoy teaching (a lot) and programming (mostly in R and python). If you have any questions, please feel free to contact me!
