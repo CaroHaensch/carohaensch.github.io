@@ -20,7 +20,7 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 Dealing with Missing Data in Ex-Post Survey Harmonization in Family Research<br>
 
 **M. Sc., Survey Statistics** 09/2014 – 09/2017 <br>
-*University of Bamberg, Bamberg, Germany*<br>
+*University of Bamberg, Germany*<br>
 
 **B. A., Political Science/Sociology** 09/2011 – 09/2014<br>
 *Ludwig-Maximilians-Universität (LMU) München, Germany*<br>
