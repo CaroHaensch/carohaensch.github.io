@@ -89,7 +89,7 @@ Kreitzscheck, Mathis, and **Anna-Carolina Haensch**. 2019. "Klopfet an, so wird 
 
 ## Supervised Theses
 
-- Bachelor Thesis (Sociology, University of Mannheim). 2020. Supervised classification of an open-ended quesion on survey motivation from the GESIS Panel.
+- Bachelor Thesis (Sociology, University of Mannheim). 2020. Supervised classification of an open-ended question on survey motivation from the GESIS Panel.
 
 ## Teaching assistant
 
