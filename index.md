@@ -46,6 +46,8 @@ Dealing with Missing Data in Ex-Post Survey Harmonization in Family Research<br>
 
 # Publications
 
+**Haensch, Anna-Carolina**,  Drechsler, Jörg and Sarah Bernhard (2020): TippingSens: An R Shiny Application to Facilitate Sensitivity Analysis for Causal Inference Under Confounding. (IAB-Discussion Paper, 29/2020), Nürnberg. https://www.iab.de/183/section.aspx/Publikation/K200925EAL 
+
 **Haensch, Anna-Carolina**, Corinna Stöckinger, and Doris Stingl. 2020. "Schluss mit Sterne gucken. Frequentistische Alternativen zum p-Wert." In Bad Science: Die dunkle Seite der Statistik , edited by Rebekka Kluge, and Florian Meinfelder, 5-26.
 
 **Haensch, Anna-Carolina**, Sonja Schulz, Sebastian Sterl, and Bernd Weiß. 2019. The HaSpaD (Harmonizing and Synthesizing Partnership Histories from Different Research Data Infrastructures) Project . 1 5. https://www.asc.ohio-state.edu/dataharmonization/wp-content/uploads/2019/07/Harmonization-Newsletter-v5n1-Spring-Summer-FINAL-2019.pdf.
