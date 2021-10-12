@@ -14,7 +14,7 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 ### Education
 
-**PhD Student** 10/2017-06/2021  <br>
+**PhD, Sociology** 10/2017-06/2021  <br>
 *University of Mannheim, Germany* <br>
 Dealing with various flavors of missing data in ex-post survey harmonization and beyond<br>
 
