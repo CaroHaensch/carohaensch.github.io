@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[Twitter](https://twitter.com/CarolinaHaensch) |
 [LinkedIn](https://de.linkedin.com/in/anna-carolina-haensch-626b1b16a) |
-[University of Munich](https://www.soda.statistik.uni-muenchen.de/people/employees/haensch/index.html)
+[University of Munich](https://www.soda.statistik.uni-muenchen.de/people/employees/haensch/index.html)|
+[Twitter](https://twitter.com/CarolinaHaensch)
 
 Welcome! I am passionate about research on missing data, multiple imputation and big data in the social sciences. I also enjoy teaching (a lot) and programming (mostly in R and python). If you have any questions, please feel free to contact me!
 
@@ -45,9 +45,7 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 *Institute for Employment Research* (Statistical Methods Centre) <br>
 *Ludwig-Maximilians-Universität (LMU):* Chair of Empirical Political Research and Policy Analysis <br>
 *Leibniz-Institute for Educational Trajectories (LIfBi e.V.)* <br>
-
-**Internship as student**<br>
-*Amt für Statistik Berlin-Brandenburg, Germany*
+*Statistical office for the region Berlin and Brandenburg, Germany*
 
 
 # Publications
@@ -83,27 +81,27 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 ## Lecture
 
-- Haensch, Anna-Carolina. 2021. "Statistics I for Social Scientists." University of Munich. WS 2021: 4 SWS. 
+- "Statistics I for Social Scientists." University of Munich. WS 2021: 4 SWS. 
 
 ## Seminars
 
-- Haensch, Anna-Carolina. 2021. "SURV748: Step by Step in Survey Weighting." International Program in Survey and Data Science. SS 2021.
+- "SURV748: Step by Step in Survey Weighting." International Program in Survey and Data Science. SS 2021.
 
-- Haensch, Anna-Carolina. 2021. "Statistics II for Social Scientists." University of Munich. SS 2021: 2 SWS (2x).
+- "Statistics II for Social Scientists." University of Munich. SS 2021: 2 SWS (2x).
 
-- Haensch, Anna-Carolina. 2020. "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis." University of Mannheim. HWS 2020: 4 SWS.
+- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis." University of Mannheim. HWS 2020: 4 SWS.
 
-- Haensch, Anna-Carolina. 2020. "Quantitative Research Seminar II: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2020: 2 SWS.
+- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2020: 2 SWS.
 
-- Haensch, Anna-Carolina. 2019. "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis."  University of Mannheim. HWS 2019: 4 SWS.
+- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis."  University of Mannheim. HWS 2019: 4 SWS.
 
-- Haensch, Anna-Carolina. 2019. "Quantitative Research Seminar II: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2019: 2 SWS.
+- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2019: 2 SWS.
 
-- Haensch, Anna-Carolina. 2018. "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis."  University of Mannheim. HWS 2018: 4 SWS.
+- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis."  University of Mannheim. HWS 2018: 4 SWS.
 
-- Haensch, Anna-Carolina. 2018. "Quantitative Research Seminar II: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2018: 2 SWS.
+- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2018: 2 SWS.
 
-- Haensch, Anna-Carolina. 2017. "Introduction to Data Collection."  University of Mannheim. HWS 2017: 2 SWS.
+- "Introduction to Data Collection."  University of Mannheim. HWS 2017: 2 SWS.
 
 
 ## Supervised Theses
@@ -112,12 +110,12 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 ## Teaching assistant
 
-- Haensch, Anna-Carolina. 2021. "SURV699: Introduction to Official Statistics." (taught by Walter Radermacher) International Program in Survey and Data Science. 
-- Haensch, Anna-Carolina. 2019. "SURV726: Multiple Imputation." (taught by Jörg Drechsler) International Program in Survey and Data Science. 
-- Haensch, Anna-Carolina. 2019. "SURV725: Item Nonresponse and Imputation." (taught by Jörg Drechsler) International Program in Survey and Data Science. 
-- Haensch, Anna-Carolina. 2017. "Policial Science. Introduction to Empirical Research Methods." (taught by Paul Thurner) Ludwig-Maximilians-Universität (LMU) München SS 2017: 4x2 SWS.
+- "SURV699: Introduction to Official Statistics." (taught by Walter Radermacher) International Program in Survey and Data Science. 
+- "SURV726: Multiple Imputation." (taught by Jörg Drechsler) International Program in Survey and Data Science. 
+- "SURV725: Item Nonresponse and Imputation." (taught by Jörg Drechsler) International Program in Survey and Data Science. 
+- "Introduction to Empirical Research Methods in Political Science." (taught by Paul Thurner) Ludwig-Maximilians-Universität (LMU) München SS 2017.
 
 ## Other
 
-- Weiß, Bernd, Jessica Wengrzik, and Anna-Carolina Haensch. 2018. "Meta-Analysis in Social Research and Survey Methodology." GESIS Summer School 2018.
+- "Meta-Analysis in Social Research and Survey Methodology." (together with Bernd Weiß and Jessica Wengrzik) GESIS Summer School 2018.
 
