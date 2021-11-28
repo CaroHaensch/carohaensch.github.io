@@ -54,7 +54,7 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 **Haensch, Anna-Carolina**, Bernd Weiß, Patricia Steins, Priscilla Chyrva, Katja Bitz (forthcoming 2022): The semi-automatic categorization of open-ended questions on survey motivation and its reuse for attrition analysis. In:  Frontiers in Sociology (Big Data and Machine Learning in Sociology). 
 
-**Haensch, Anna-Carolina**; Herklotz, Markus; Keusch, Florian; Kreuter, Frauke (2021). The international program in survey and data science (IPSDS): a modern study program for working professionals. In: Statistical Journal of the IAOS, Vol. 37, No. 3: pp. 921-933. https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210833
+[**Haensch, Anna-Carolina**; Herklotz, Markus; Keusch, Florian; Kreuter, Frauke (2021). The international program in survey and data science (IPSDS): a modern study program for working professionals. In: Statistical Journal of the IAOS, Vol. 37, No. 3: pp. 921-933.](https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210833)
 
 **Haensch, Anna-Carolina** (2021). Dealing with various flavors of missing data in ex-post survey harmonization and beyond. PhD Dissertation. https://madoc.bib.uni-mannheim.de/59940/. 
 
