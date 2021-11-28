@@ -50,11 +50,11 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 # Publications
 
-**Haensch, Anna-Carolina**, Bernd Weiß, Patricia Steins, Priscilla Chyrva, Katja Bitz (forthcoming 2022): The semi-automatic categorization of open-ended questions on survey motivation and its reuse for attrition analysis. In:  Frontiers in Sociology (Big Data and Machine Learning in Sociology). 
+**Haensch, Anna-Carolina**, Bernd Weiß, Patricia Steins, Priscilla Chyrva, Katja Bitz. Forthcoming 2022. The semi-automatic categorization of open-ended questions on survey motivation and its reuse for attrition analysis. In:  Frontiers in Sociology (Big Data and Machine Learning in Sociology). 
 
-[**Haensch, Anna-Carolina**; Herklotz, Markus; Keusch, Florian; Kreuter, Frauke (2021). The international program in survey and data science (IPSDS): a modern study program for working professionals. In: Statistical Journal of the IAOS, Vol. 37, No. 3: pp. 921-933.](https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210833)
+[**Haensch, Anna-Carolina**; Herklotz, Markus; Keusch, Florian; Kreuter, Frauke. 2021. The international program in survey and data science (IPSDS): a modern study program for working professionals. In: Statistical Journal of the IAOS, Vol. 37, No. 3: pp. 921-933.](https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210833)
 
-[**Haensch, Anna-Carolina** (2021). Dealing with various flavors of missing data in ex-post survey harmonization and beyond. PhD Dissertation. University of Mannheim.](https://madoc.bib.uni-mannheim.de/59940/) 
+[**Haensch, Anna-Carolina**. 2021. Dealing with various flavors of missing data in ex-post survey harmonization and beyond. PhD Dissertation. University of Mannheim.](https://madoc.bib.uni-mannheim.de/59940/) 
 
 [**Haensch, Anna-Carolina**,  Drechsler, Jörg and Sarah Bernhard. 2020. TippingSens: An R Shiny Application to Facilitate Sensitivity Analysis for Causal Inference Under Confounding. (IAB-Discussion Paper, 29/2020), Nürnberg.](https://www.iab.de/183/section.aspx/Publikation/K200925EAL)
 
@@ -76,6 +76,11 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 
 # Teaching
+
+
+## Supervised Theses
+
+- 3 x Bachelor Thesis (Sociology, University of Mannheim). 2021. All topics related to supervised classification of open-ended questions in surveys.
 
 ## Lecture
 
@@ -100,11 +105,6 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 - "Quantitative Research Seminar II: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2018: 2 SWS.
 
 - "Introduction to Data Collection."  University of Mannheim. HWS 2017: 2 SWS.
-
-
-## Supervised Theses
-
-- 3 x Bachelor Thesis (Sociology, University of Mannheim). 2021. Topics all related to supervised classification of open-ended questions.
 
 ## Teaching assistant
 
