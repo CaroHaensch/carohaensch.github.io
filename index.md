@@ -68,8 +68,6 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 [**Haensch, Anna-Carolina**. 2014. Die Effekte von Koalitionspräferenzen und -erwartungen auf Wahlentscheidungen in Verhätniswahlsystemen. Münchener Beiträge zur Politikwissenschaft.](https://epub.ub.uni-muenchen.de/21845/)
 
-# Work
-
 ## Working papers
 
 - Multiple imputation for discrete-time survival analysis (with Bernd Weiss, Jonathan Bartlett)
