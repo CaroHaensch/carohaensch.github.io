@@ -70,9 +70,9 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 ## Working papers
 
-- Multiple imputation for discrete-time survival analysis (with Bernd Weiss, Jonathan Bartlett)
+Multiple imputation for discrete-time survival analysis (with Bernd Weiss, Jonathan Bartlett)
 
-- Systematically missing partner variables and possible multiple imputation strategies (with Reinhard Schunck)
+Systematically missing partner variables and possible multiple imputation strategies (with Reinhard Schunck)
 
 
 # Teaching
