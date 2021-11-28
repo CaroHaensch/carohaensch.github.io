@@ -42,10 +42,10 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 *GESIS – Leibniz Institute for the Social Sciences* <br>
 
 **Student assistant** 2012 – 2017  <br>
-*Institute for Employment Research* (Statistical Methods Centre) <br>
+*Institute for Employment Research:* Statistical Methods Centre <br>
 *Ludwig-Maximilians-Universität (LMU):* Chair of Empirical Political Research and Policy Analysis <br>
 *Leibniz-Institute for Educational Trajectories (LIfBi e.V.)* <br>
-*Statistical office for the region Berlin and Brandenburg, Germany*
+*Statistical Office for the Regions Berlin and Brandenburg:* Mikrozensus.<br>
 
 
 # Publications
