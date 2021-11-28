@@ -29,9 +29,11 @@ Dealing with various flavors of missing data in ex-post survey harmonization and
 
 **Postdoctoral researcher** Since 10/2021 <br>
 *Institute for Employment Research* <br>
+*High-frequency Online Personal Panel (HOPP) "life and work situations in times of Corona"*  <br>
 
 **Postdoctoral researcher** Since 04/2021 <br>
 *University of Munich* <br>
+*Chair of Statistics and Data Science in Social Sciences and the Humanities*  <br>
 
 **Doctoral researcher** 08/2019-02/2021 <br>
 *University of Mannheim* <br>
@@ -59,24 +61,28 @@ Dealing with various flavors of missing data in ex-post survey harmonization and
 
 **Haensch, Anna-Carolina**, Corinna Stöckinger, and Doris Stingl. 2020. "Schluss mit Sterne gucken. Frequentistische Alternativen zum p-Wert." In Bad Science: Die dunkle Seite der Statistik , edited by Rebekka Kluge, and Florian Meinfelder, 5-26.
 
-**Haensch, Anna-Carolina**, Sonja Schulz, Sebastian Sterl, and Bernd Weiß. 2019. The HaSpaD (Harmonizing and Synthesizing Partnership Histories from Different Research Data Infrastructures) Project . 1 5. https://www.asc.ohio-state.edu/dataharmonization/wp-content/uploads/2019/07/Harmonization-Newsletter-v5n1-Spring-Summer-FINAL-2019.pdf.
+**Haensch, Anna-Carolina**, Sonja Schulz, Sebastian Sterl, and Bernd Weiß. 2019. The HaSpaD (Harmonizing and Synthesizing Partnership Histories from Different Research Data Infrastructures) Project. In: Harmonization Newsletter, Vol. 5, No. 1: 20-21. https://www.asc.ohio-state.edu/dataharmonization/wp-content/uploads/2019/07/Harmonization-Newsletter-v5n1-Spring-Summer-FINAL-2019.pdf.
 
 Kreitzscheck, Mathis, and **Anna-Carolina Haensch**. 2019. "Klopfet an, so wird euch aufgetan?: Teilnahmeverweigerung und Nonresponse Bias in der fünften Kirchenmitgliedschaftsuntersuchung." Praktische Theologie 54 (1): 43-51. https://doi.org/10.14315/prth-2019-540110.
 
 **Haensch, Anna-Carolina**. 2016. "Armutsgefährdung in Berlin und Brandenburg 2014: Eine Analyse nach Lebensformen und Risikolagen." Zeitschrift für amtliche Statistik Berlin Brandenburg 10 (1): 36-41. https://www.statistik-berlin-brandenburg.de/produkte/zeitschrift/2016/HZ_201601.pdf.
 
-**Haensch, Anna-Carolina**. 2014. Die Effekte von Koalitionspräferenzen und -erwartungen auf Wahlentscheidungen in Verhätniswahlsystemen: Bachelorarbeit. Münchener Beiträge zur Politikwissenschaft. https://epub.ub.uni-muenchen.de/21845/.
+**Haensch, Anna-Carolina**. 2014. Die Effekte von Koalitionspräferenzen und -erwartungen auf Wahlentscheidungen in Verhätniswahlsystemen. Münchener Beiträge zur Politikwissenschaft. https://epub.ub.uni-muenchen.de/21845/.
 
 # Work
 
 ## Working papers
 
-- Multiple imputation for discrete-time survival analysis (with Bernd Weiss)
+- Multiple imputation for discrete-time survival analysis (with Bernd Weiss, Jonathan Bartlett)
 
 - Systematically missing partner variables and possible multiple imputation strategies (with Reinhard Schunck)
 
 
 # Teaching
+
+## Lecture
+
+- Haensch, Anna-Carolina. 2021. "Statistics I for Social Scientists." University of Munich. WS 2021: 4 SWS. 
 
 ## Seminars
 
@@ -98,9 +104,6 @@ Kreitzscheck, Mathis, and **Anna-Carolina Haensch**. 2019. "Klopfet an, so wird 
 
 - Haensch, Anna-Carolina. 2017. "Übung Datenerhebung."  University of Mannheim. HWS 2017: 2 SWS.
 
-## Lecture
-
-- Haensch, Anna-Carolina. 2021. "Statistics I for Social Scientists." University of Munich. WS 2021: 4 SWS.
 
 ## Supervised Theses
 
