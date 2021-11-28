@@ -8,7 +8,7 @@ layout: default
 
 Welcome! I am passionate about research on missing data, multiple imputation and big data in the social sciences. I also enjoy teaching (a lot) and programming (mostly in R and python). If you have any questions, please feel free to contact me!
 
-[Contact](https://www.soda.statistik.uni-muenchen.de/people/employees/haensch/index.html) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Current work](#work) |[Teaching](#teaching) |
+[Contact](https://www.soda.statistik.uni-muenchen.de/people/employees/haensch/index.html) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Teaching](#teaching) |
 
 # Curriculum vitae
 
