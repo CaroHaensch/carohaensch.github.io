@@ -54,7 +54,7 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 [**Haensch, Anna-Carolina**; Herklotz, Markus; Keusch, Florian; Kreuter, Frauke (2021). The international program in survey and data science (IPSDS): a modern study program for working professionals. In: Statistical Journal of the IAOS, Vol. 37, No. 3: pp. 921-933.](https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210833)
 
-[**Haensch, Anna-Carolina** (2021). Dealing with various flavors of missing data in ex-post survey harmonization and beyond. PhD Dissertation.](https://madoc.bib.uni-mannheim.de/59940/) 
+[**Haensch, Anna-Carolina** (2021). Dealing with various flavors of missing data in ex-post survey harmonization and beyond. PhD Dissertation. University of Mannheim.](https://madoc.bib.uni-mannheim.de/59940/) 
 
 [**Haensch, Anna-Carolina**,  Drechsler, Jörg and Sarah Bernhard. 2020. TippingSens: An R Shiny Application to Facilitate Sensitivity Analysis for Causal Inference Under Confounding. (IAB-Discussion Paper, 29/2020), Nürnberg.](https://www.iab.de/183/section.aspx/Publikation/K200925EAL)
 
