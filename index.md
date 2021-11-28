@@ -56,19 +56,19 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 [**Haensch, Anna-Carolina**; Herklotz, Markus; Keusch, Florian; Kreuter, Frauke (2021). The international program in survey and data science (IPSDS): a modern study program for working professionals. In: Statistical Journal of the IAOS, Vol. 37, No. 3: pp. 921-933.](https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210833)
 
-**Haensch, Anna-Carolina** (2021). Dealing with various flavors of missing data in ex-post survey harmonization and beyond. PhD Dissertation. https://madoc.bib.uni-mannheim.de/59940/. 
+[**Haensch, Anna-Carolina** (2021). Dealing with various flavors of missing data in ex-post survey harmonization and beyond. PhD Dissertation.](https://madoc.bib.uni-mannheim.de/59940/) 
 
-**Haensch, Anna-Carolina**,  Drechsler, Jörg and Sarah Bernhard. 2020. TippingSens: An R Shiny Application to Facilitate Sensitivity Analysis for Causal Inference Under Confounding. (IAB-Discussion Paper, 29/2020), Nürnberg. https://www.iab.de/183/section.aspx/Publikation/K200925EAL 
+[**Haensch, Anna-Carolina**,  Drechsler, Jörg and Sarah Bernhard. 2020. TippingSens: An R Shiny Application to Facilitate Sensitivity Analysis for Causal Inference Under Confounding. (IAB-Discussion Paper, 29/2020), Nürnberg.](https://www.iab.de/183/section.aspx/Publikation/K200925EAL)
 
 **Haensch, Anna-Carolina**, Corinna Stöckinger, and Doris Stingl. 2020. "Schluss mit Sterne gucken. Frequentistische Alternativen zum p-Wert." In Bad Science: Die dunkle Seite der Statistik , edited by Rebekka Kluge, and Florian Meinfelder, 5-26.
 
-**Haensch, Anna-Carolina**, Sonja Schulz, Sebastian Sterl, and Bernd Weiß. 2019. The HaSpaD (Harmonizing and Synthesizing Partnership Histories from Different Research Data Infrastructures) Project. In: Harmonization Newsletter, Vol. 5, No. 1: 20-21. https://www.asc.ohio-state.edu/dataharmonization/wp-content/uploads/2019/07/Harmonization-Newsletter-v5n1-Spring-Summer-FINAL-2019.pdf.
+[**Haensch, Anna-Carolina**, Sonja Schulz, Sebastian Sterl, and Bernd Weiß. 2019. The HaSpaD (Harmonizing and Synthesizing Partnership Histories from Different Research Data Infrastructures) Project. In: Harmonization Newsletter, Vol. 5, No. 1: 20-21.](https://www.asc.ohio-state.edu/dataharmonization/wp-content/uploads/2019/07/Harmonization-Newsletter-v5n1-Spring-Summer-FINAL-2019.pdf)
 
-Kreitzscheck, Mathis, and **Anna-Carolina Haensch**. 2019. "Klopfet an, so wird euch aufgetan?: Teilnahmeverweigerung und Nonresponse Bias in der fünften Kirchenmitgliedschaftsuntersuchung." Praktische Theologie 54 (1): 43-51. https://doi.org/10.14315/prth-2019-540110.
+[Kreitzscheck, Mathis, and **Anna-Carolina Haensch**. 2019. "Klopfet an, so wird euch aufgetan?: Teilnahmeverweigerung und Nonresponse Bias in der fünften Kirchenmitgliedschaftsuntersuchung." Praktische Theologie 54 (1): 43-51.](https://doi.org/10.14315/prth-2019-540110)
 
-**Haensch, Anna-Carolina**. 2016. "Armutsgefährdung in Berlin und Brandenburg 2014: Eine Analyse nach Lebensformen und Risikolagen." Zeitschrift für amtliche Statistik Berlin Brandenburg 10 (1): 36-41. https://www.statistik-berlin-brandenburg.de/produkte/zeitschrift/2016/HZ_201601.pdf.
+[**Haensch, Anna-Carolina**. 2016. "Armutsgefährdung in Berlin und Brandenburg 2014: Eine Analyse nach Lebensformen und Risikolagen." Zeitschrift für amtliche Statistik Berlin Brandenburg 10 (1): 36-41.](https://www.statistik-berlin-brandenburg.de/produkte/zeitschrift/2016/HZ_201601.pdf)
 
-**Haensch, Anna-Carolina**. 2014. Die Effekte von Koalitionspräferenzen und -erwartungen auf Wahlentscheidungen in Verhätniswahlsystemen. Münchener Beiträge zur Politikwissenschaft. https://epub.ub.uni-muenchen.de/21845/.
+[**Haensch, Anna-Carolina**. 2014. Die Effekte von Koalitionspräferenzen und -erwartungen auf Wahlentscheidungen in Verhätniswahlsystemen. Münchener Beiträge zur Politikwissenschaft.](https://epub.ub.uni-muenchen.de/21845/)
 
 # Work
 
