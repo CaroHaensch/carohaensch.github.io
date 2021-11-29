@@ -98,15 +98,15 @@ Systematically missing partner variables and possible multiple imputation strate
 
 - "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis." University of Mannheim. HWS 2020: 4 SWS.
 
-- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2020: 2 SWS.
+- "Quantitative Research Seminar I: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2020: 2 SWS.
 
 - "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis."  University of Mannheim. HWS 2019: 4 SWS.
 
-- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2019: 2 SWS.
+- "Quantitative Research Seminar I: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2019: 2 SWS.
 
 - "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis."  University of Mannheim. HWS 2018: 4 SWS.
 
-- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2018: 2 SWS.
+- "Quantitative Research Seminar I: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2018: 2 SWS.
 
 - "Introduction to Data Collection."  University of Mannheim. HWS 2017: 2 SWS.
 
