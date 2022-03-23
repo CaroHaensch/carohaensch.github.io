@@ -50,7 +50,13 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 # Publications
 
+[**Haensch, Anna-Carolina**, Jacob Beck, Marie-Lou Sohnius. 2022. UMD survey offers real-time data-driven glimpse into Ukrainian well-being. University of Maryland Social Data Science Center blog.](https://socialdatascience.umd.edu/umd-survey-offers-real-time-data-driven-glimpse-into-ukrainian-well-being/) 
+
+[**Haensch, Anna-Carolina**, Jacob Beck, Frauke Kreuter. Forthcoming June 2022. Die COVID-19 Trends and Impact Surveys. In: Neue Dimensionen in Data Science. Interdisziplinäre Ansätze und Anwendungen aus Wissenschaft und Wirtschaft (Eds. Barbara Wawrzyniak; Michael Herter).](https://www.vde-verlag.de/buecher/537721/neue-dimensionen-in-data-science.html#:~:text=Dieser%20Titel%20erscheint%20Juni%202022,Umgang%20mit%20Daten%20immer%20wichtiger) 
+
 **Haensch, Anna-Carolina**, Bernd Weiß, Patricia Steins, Priscilla Chyrva, Katja Bitz. Forthcoming 2022. The semi-automatic categorization of open-ended questions on survey motivation and its reuse for attrition analysis. In:  Frontiers in Sociology (Big Data and Machine Learning in Sociology). 
+
+Weiß, Bernd, Sonja Schulz, Lisa Schmid, Sebastian Sterl, **Anna-Carolina Haensch**. Forthcoming 2022. Harmonizing and Synthesizing Partnership Histories from Different German Survey Infrastructures. Chapter 14. In: Wiley Handbook on Survey data harmonization in the social sciences (Eds. Irina Tomescu-Dubrow, Christof Wolf, Kazimierz M. Slomczynski, J. Craig Jenkins). 
 
 [**Haensch, Anna-Carolina**; Herklotz, Markus; Keusch, Florian; Kreuter, Frauke. 2021. The international program in survey and data science (IPSDS): a modern study program for working professionals. In: Statistical Journal of the IAOS, Vol. 37, No. 3: pp. 921-933.](https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210833)
 
@@ -88,9 +94,15 @@ Systematically missing partner variables and possible multiple imputation strate
 
 ## Lecture
 
+- "Advanced Statistical Software Programming (R)" University of Munich. SS 2022: 1 SWS.
+
+- "Statistics II for Social Scientists." University of Munich. SS 2022: 4 SWS.
+
 - "Statistics I for Social Scientists." University of Munich. WS 2021: 4 SWS. 
 
 ## Seminars
+
+- "SURV699M: Review of Statistical Concepts." International Program in Survey and Data Science. SS 2022.
 
 - "SURV748: Step by Step in Survey Weighting." International Program in Survey and Data Science. SS 2021.
 
