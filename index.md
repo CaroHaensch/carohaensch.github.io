@@ -26,13 +26,17 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 ### Professional Experience
 
-**Postdoctoral researcher** Since 10/2021 <br>
-*Institute for Employment Research* <br>
-*High-frequency Online Personal Panel (HOPP). Life and work situations in times of Corona*  <br>
-
 **Postdoctoral researcher** Since 04/2021 <br>
 *University of Munich* <br>
 *Chair of Statistics and Data Science in Social Sciences and the Humanities*  <br>
+
+**Assistant professor** Since 08/2021 <br>
+*University of Maryland* <br>
+*International Program in Survey and Data Science*  <br>
+
+**Postdoctoral researcher** 10/2021 -12/2021 <br>
+*Institute for Employment Research* <br>
+*High-frequency Online Personal Panel (HOPP). Life and work situations in times of Corona*  <br>
 
 **Doctoral researcher** 08/2019-02/2021 <br>
 *University of Mannheim* <br>
@@ -50,11 +54,11 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 # Publications
 
+[**Haensch, Anna-Carolina**, Bernd Weiß, Patricia Steins, Priscilla Chyrva, Katja Bitz. Forthcoming 2022. The semi-automatic categorization of open-ended questions on survey motivation and its reuse for attrition analysis. In:  Frontiers in Sociology (Big Data and Machine Learning in Sociology).](https://www.frontiersin.org/articles/10.3389/fdata.2022.880554/full)
+
 [**Haensch, Anna-Carolina**, Jacob Beck, Marie-Lou Sohnius. 2022. UMD survey offers real-time data-driven glimpse into Ukrainian well-being. University of Maryland Social Data Science Center blog.](https://socialdatascience.umd.edu/umd-survey-offers-real-time-data-driven-glimpse-into-ukrainian-well-being/) 
 
 [**Haensch, Anna-Carolina**, Jacob Beck, Frauke Kreuter. Forthcoming June 2022. Die COVID-19 Trends and Impact Surveys. In: Neue Dimensionen in Data Science. Interdisziplinäre Ansätze und Anwendungen aus Wissenschaft und Wirtschaft (Eds. Barbara Wawrzyniak; Michael Herter).](https://www.vde-verlag.de/buecher/537721/neue-dimensionen-in-data-science.html#:~:text=Dieser%20Titel%20erscheint%20Juni%202022,Umgang%20mit%20Daten%20immer%20wichtiger) 
-
-**Haensch, Anna-Carolina**, Bernd Weiß, Patricia Steins, Priscilla Chyrva, Katja Bitz. Forthcoming 2022. The semi-automatic categorization of open-ended questions on survey motivation and its reuse for attrition analysis. In:  Frontiers in Sociology (Big Data and Machine Learning in Sociology). 
 
 Weiß, Bernd, Sonja Schulz, Lisa Schmid, Sebastian Sterl, **Anna-Carolina Haensch**. Forthcoming 2022. Harmonizing and Synthesizing Partnership Histories from Different German Survey Infrastructures. Chapter 14. In: Wiley Handbook on Survey data harmonization in the social sciences (Eds. Irina Tomescu-Dubrow, Christof Wolf, Kazimierz M. Slomczynski, J. Craig Jenkins). 
 
@@ -90,6 +94,7 @@ Systematically missing partner variables and possible multiple imputation strate
 
 ## Supervised Theses
 
+- 3 x Bachelor Thesis (Statistics, University of Munich). 2022. All topics related to the Covid-19 Trends and Impact Surveys.
 - 3 x Bachelor Thesis (Sociology, University of Mannheim). 2021. All topics related to supervised classification of open-ended questions in surveys.
 
 ## Lecture
@@ -101,6 +106,8 @@ Systematically missing partner variables and possible multiple imputation strate
 - "Statistics I for Social Scientists." University of Munich. WS 2021: 4 SWS. 
 
 ## Seminars
+
+- "Introduction to the world of Big Data & Analytics." Mannheim Business School Summer School 2022.
 
 - "SURV699M: Review of Statistical Concepts." International Program in Survey and Data Science. SS 2022.
 
