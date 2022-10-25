@@ -54,6 +54,8 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 # Publications
 
+**Anna-Carolina Haensch**, Jonathan Bartlett, Bernd Weiß. Accepted at Sociological Methods & Research. Multiple imputation of partially observed covariates in  discrete-time survival analysis.
+
 [**Haensch, Anna-Carolina**, Bernd Weiß, Patricia Steins, Priscilla Chyrva, Katja Bitz. Forthcoming 2022. The semi-automatic categorization of open-ended questions on survey motivation and its reuse for attrition analysis. In:  Frontiers in Sociology (Big Data and Machine Learning in Sociology).](https://www.frontiersin.org/articles/10.3389/fdata.2022.880554/full)
 
 [**Haensch, Anna-Carolina**, Jacob Beck, Marie-Lou Sohnius. 2022. UMD survey offers real-time data-driven glimpse into Ukrainian well-being. University of Maryland Social Data Science Center blog.](https://socialdatascience.umd.edu/umd-survey-offers-real-time-data-driven-glimpse-into-ukrainian-well-being/) 
@@ -80,7 +82,7 @@ Weiß, Bernd, Sonja Schulz, Lisa Schmid, Sebastian Sterl, **Anna-Carolina Haensc
 
 ## Working papers
 
-Multiple imputation for discrete-time survival analysis (with Bernd Weiss, Jonathan Bartlett)
+30 years of synthetic data (with Jörg Drechsler)
 
 Systematically missing partner variables and possible multiple imputation strategies (with Reinhard Schunck)
 
