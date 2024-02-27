@@ -67,6 +67,8 @@ Welcome! I am passionate about research on missing data, synthetic data and big 
 
 [Haensch, A.-C., Ball, S., Herklotz, M., & Kreuter, F. (2023). Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data. Accepted at IEEE BigSurv 2023 Conference Proceedings.](https://arxiv.org/abs/2303.05349)
 
+[Drechsler, J. & Haensch, A.-C. (2023). 30 Years of Synthetic Data. Accepted at Statistical Science.](https://arxiv.org/abs/2304.02107)
+
 Systematically missing partner variables and possible multiple imputation strategies (with Reinhard Schunck)
 
 # Publications
