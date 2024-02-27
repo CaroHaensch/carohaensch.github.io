@@ -3,10 +3,10 @@ layout: default
 ---
 
 [LinkedIn](https://de.linkedin.com/in/anna-carolina-haensch-626b1b16a) |
-[University of Munich](https://www.soda.statistik.uni-muenchen.de/people/employees/haensch/index.html)|
+[University of Munich](https://www.stat.lmu.de/soda/en/team/contact-page/anna-carolina-haensch-10689cb3.html)|
 [Twitter](https://twitter.com/CarolinaHaensch)
 
-Welcome! I am passionate about research on missing data, multiple imputation and big data in the social sciences. I also enjoy teaching (a lot) and programming (mostly in R and python). If you have any questions, please feel free to contact me!
+Welcome! I am passionate about research on missing data, synthetic data and big data in the social sciences. I also enjoy teaching (a lot) and programming (mostly in R and Python). If you have any questions, please feel free to contact me!
 
 [Contact](https://www.soda.statistik.uni-muenchen.de/people/employees/haensch/index.html) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Teaching](#teaching) |
 
@@ -26,7 +26,15 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 
 ### Professional Experience
 
-**Postdoctoral researcher** Since 04/2021 <br>
+**Lecturer (Akademische Rätin a.Z.)** Since 01/2024 <br>
+*University of Munich* <br>
+*Chair of Statistics and Data Science in Social Sciences and the Humanities*  <be>
+
+**Visiting scholar** 04/2023-08/2023 <br>
+*New York University* <br>
+*Wagner School of Public Policy*  <br>
+
+**Postdoctoral researcher** 04/2021-12/2023 <br>
 *University of Munich* <br>
 *Chair of Statistics and Data Science in Social Sciences and the Humanities*  <br>
 
@@ -49,20 +57,29 @@ Welcome! I am passionate about research on missing data, multiple imputation and
 *Institute for Employment Research:* Statistical Methods Centre <br>
 *Ludwig-Maximilians-Universität (LMU):* Chair of Empirical Political Research and Policy Analysis <br>
 *Leibniz-Institute for Educational Trajectories (LIfBi e.V.)* <br>
-*Statistical Office for the Regions Berlin and Brandenburg:* Mikrozensus.<br>
+*Statistical Office for the Regions Berlin and Brandenburg:* Mikrozensus.<be>
 
+## Current working papers
+
+[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2023). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion.](https://doi.org/10.31235/osf.io/8je9g)
+
+[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2023). Assessing Bias in LLM-Generated Synthetic Datasets: The Case of German Voter Behavior.](https://doi.org/10.31235/osf.io/97r8s)
+
+[Haensch, A.-C., Ball, S., Herklotz, M., & Kreuter, F. (2023). Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data. Accepted at IEEE BigSurv 2023 Conference Proceedings.](https://arxiv.org/abs/2303.05349)
+
+Systematically missing partner variables and possible multiple imputation strategies (with Reinhard Schunck)
 
 # Publications
 
-**Anna-Carolina Haensch**, Jonathan Bartlett, Bernd Weiß. Accepted at Sociological Methods & Research. Multiple imputation of partially observed covariates in  discrete-time survival analysis.
+[Weiß, Bernd, Sonja Schulz, Lisa Schmid, Sebastian Sterl, **Anna-Carolina Haensch**. Harmonizing and Synthesizing Partnership Histories from Different German Survey Infrastructures. Chapter 14. In: (Eds. Irina Tomescu-Dubrow, Christof Wolf, Kazimierz M. Slomczynski, J. Craig Jenkins).](https://www.wiley-vch.de/de?option=com_eshop&view=product&isbn=9781119712176&title=Survey%20Data%20Harmonization%20in%20the%20Social%20Sciences) 
+
+[**Anna-Carolina Haensch**, Jonathan Bartlett, Bernd Weiß. Multiple imputation of partially observed covariates in  discrete-time survival analysis. In: Sociological Methods & Research.](https://journals.sagepub.com/doi/10.1177/00491241221140147)
 
 [**Haensch, Anna-Carolina**, Bernd Weiß, Patricia Steins, Priscilla Chyrva, Katja Bitz. Forthcoming 2022. The semi-automatic categorization of open-ended questions on survey motivation and its reuse for attrition analysis. In:  Frontiers in Sociology (Big Data and Machine Learning in Sociology).](https://www.frontiersin.org/articles/10.3389/fdata.2022.880554/full)
 
 [**Haensch, Anna-Carolina**, Jacob Beck, Marie-Lou Sohnius. 2022. UMD survey offers real-time data-driven glimpse into Ukrainian well-being. University of Maryland Social Data Science Center blog.](https://socialdatascience.umd.edu/umd-survey-offers-real-time-data-driven-glimpse-into-ukrainian-well-being/) 
 
 [**Haensch, Anna-Carolina**, Jacob Beck, Frauke Kreuter. Forthcoming June 2022. Die COVID-19 Trends and Impact Surveys. In: Neue Dimensionen in Data Science. Interdisziplinäre Ansätze und Anwendungen aus Wissenschaft und Wirtschaft (Eds. Barbara Wawrzyniak; Michael Herter).](https://www.vde-verlag.de/buecher/537721/neue-dimensionen-in-data-science.html#:~:text=Dieser%20Titel%20erscheint%20Juni%202022,Umgang%20mit%20Daten%20immer%20wichtiger) 
-
-Weiß, Bernd, Sonja Schulz, Lisa Schmid, Sebastian Sterl, **Anna-Carolina Haensch**. Forthcoming 2022. Harmonizing and Synthesizing Partnership Histories from Different German Survey Infrastructures. Chapter 14. In: Wiley Handbook on Survey data harmonization in the social sciences (Eds. Irina Tomescu-Dubrow, Christof Wolf, Kazimierz M. Slomczynski, J. Craig Jenkins). 
 
 [**Haensch, Anna-Carolina**; Herklotz, Markus; Keusch, Florian; Kreuter, Frauke. 2021. The international program in survey and data science (IPSDS): a modern study program for working professionals. In: Statistical Journal of the IAOS, Vol. 37, No. 3: pp. 921-933.](https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210833)
 
@@ -80,11 +97,6 @@ Weiß, Bernd, Sonja Schulz, Lisa Schmid, Sebastian Sterl, **Anna-Carolina Haensc
 
 [**Haensch, Anna-Carolina**. 2014. Die Effekte von Koalitionspräferenzen und -erwartungen auf Wahlentscheidungen in Verhätniswahlsystemen. Münchener Beiträge zur Politikwissenschaft.](https://epub.ub.uni-muenchen.de/21845/)
 
-## Working papers
-
-30 years of synthetic data (with Jörg Drechsler)
-
-Systematically missing partner variables and possible multiple imputation strategies (with Reinhard Schunck)
 
 ## R package
 
@@ -93,45 +105,68 @@ Systematically missing partner variables and possible multiple imputation strate
 
 # Teaching
 
-
 ## Supervised Theses
-
-- 3 x Bachelor Thesis (Statistics, University of Munich). 2022. All topics related to the Covid-19 Trends and Impact Surveys.
+- (currently ongoing) 3 PhD Theses on Statistical Education, application of ML methods in Social Sciences, and synthetic data generation with LLMs.
+- ~ 5 x Master Thesis (Statistics, University of Munich). Since 2022. Topics mostly related to the application of LLMs in synthetic data generation, application of ML methods in Social Sciences.
+- ~ 10 x Bachelor Thesis (Statistics, University of Munich). Since 2022. Topics related to the Covid-19 Trends and Impact Surveys, synthetic data (both traditional methods and LLMs). 
 - 3 x Bachelor Thesis (Sociology, University of Mannheim). 2021. All topics related to supervised classification of open-ended questions in surveys.
 
-## Lecture
+## Seminars (Master/PhD Level)
 
-- "Advanced Statistical Software Programming (R)" University of Munich. SS 2022: 1 SWS.
+- "Data Science Techniques for Survey Researchers." GESIS Summer School. Summer 2024.
 
-- "Statistics II for Social Scientists." University of Munich. SS 2022: 4 SWS.
+- "FAIR workshop: Digital Trace Data in Social Science Resaerch". TU Dortmund. Summer 2024.
 
-- "Statistics I for Social Scientists." University of Munich. WS 2021: 4 SWS. 
+- "SURV748: Step by Step in Survey Weighting." Australian National University and Mannheim Business School. Spring 2024.
+  
+- "SURV748:Step by Step in Survey Weighting." University of Maryland. Spring 2024.
 
-## Seminars
+- "Data Science Techniques for Survey Researchers." GESIS Summer School. Summer 2023.
 
-- "Introduction to the world of Big Data & Analytics." Mannheim Business School Summer School 2022.
+- "SURV748: Step by Step in Survey Weighting." International Program in Survey and Data Science. Spring 2023.
 
-- "SURV699M: Review of Statistical Concepts." International Program in Survey and Data Science. SS 2022.
+- "Introduction to the world of Big Data & Analytics." Mannheim Business School Summer School. Summer 2022.
 
-- "SURV748: Step by Step in Survey Weighting." International Program in Survey and Data Science. SS 2021.
+- "SURV748: Step by Step in Survey Weighting." International Program in Survey and Data Science. Spring 2021.
 
-- "Statistics II for Social Scientists." University of Munich. SS 2021: 2 SWS (2x).
 
-- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis." University of Mannheim. HWS 2020: 4 SWS.
+## Seminars (Undergraduate level)
 
-- "Quantitative Research Seminar I: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2020: 2 SWS.
+- "SURV699M: Review of Statistical Concepts." International Program in Survey and Data Science. Summer 2023.
 
-- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis."  University of Mannheim. HWS 2019: 4 SWS.
+- "Statistics II for Social Scientists." University of Munich. Summer 2021: 2 SWS (2x).
 
-- "Quantitative Research Seminar I: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2019: 2 SWS.
+- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis." University of Mannheim. Winter 2020: 4 SWS.
 
-- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis."  University of Mannheim. HWS 2018: 4 SWS.
+- "Quantitative Research Seminar I: Big Data in the Social Sciences. Data collection."  University of Mannheim. Spring 2020: 2 SWS.
 
-- "Quantitative Research Seminar I: Big Data in the Social Sciences. Data collection."  University of Mannheim. FSS 2018: 2 SWS.
+- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis."  University of Mannheim. Winter 2019: 4 SWS.
 
-- "Introduction to Data Collection."  University of Mannheim. HWS 2017: 2 SWS.
+- "Quantitative Research Seminar I: Big Data in the Social Sciences. Data collection."  University of Mannheim. Spring 2019: 2 SWS.
 
-## Teaching assistant
+- "Quantitative Research Seminar II: Big Data in the Social Sciences. Data analysis."  University of Mannheim. Winter 2018: 4 SWS.
+
+- "Quantitative Research Seminar I: Big Data in the Social Sciences. Data collection."  University of Mannheim. Spring 2018: 2 SWS.
+
+- "Introduction to Data Collection."  University of Mannheim. Winter 2017: 2 SWS.
+
+## Lecture (Undergraduate level)
+
+- "Statistics II for Social Scientists." University of Munich. Summer 2024: 4 SWS.
+
+- "Statistics I for Social Scientists." University of Munich. Winter 2024: 4 SWS. 
+
+- "Statistics II for Social Scientists." University of Munich. Summer 2023: 4 SWS.
+
+- "Statistics I for Social Scientists." University of Munich. Winter 2023: 4 SWS.
+
+- "Advanced Statistical Software Programming (R)" University of Munich. Summer  2022: 1 SWS.
+
+- "Statistics II for Social Scientists." University of Munich. Summer 2022: 4 SWS.
+
+- "Statistics I for Social Scientists." University of Munich. Winter 2021: 4 SWS. 
+
+## Teaching Assistant
 
 - "SURV699: Introduction to Official Statistics." (taught by Walter Radermacher) International Program in Survey and Data Science. 
 - "SURV726: Multiple Imputation." (taught by Jörg Drechsler) International Program in Survey and Data Science. 
