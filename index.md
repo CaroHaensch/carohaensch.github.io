@@ -73,7 +73,7 @@ Systematically missing partner variables and possible multiple imputation strate
 
 **Haensch, A.-C.** & Schunck, R. (2024). Multiple imputation for systematically missing partner variables in survey data. Accepted at Sociological Methodology.
 
-[Drechsler, J. & **Haensch, A.-C.** (2024). 30 Years of Synthetic Data. Statistical Science.] (https://www.e-publications.org/ims/submission/STS/user/submissionFile/57906?confirm=1907e523)
+[Drechsler, J. & **Haensch, A.-C.** (2024). 30 Years of Synthetic Data. Statistical Science.](https://www.e-publications.org/ims/submission/STS/user/submissionFile/57906?confirm=1907e523)
 
 [**Haensch, A.-C.**, Ball, S., Herklotz, M., & Kreuter, F. (2024). Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data. IEEE BigSurv 2023 Conference Proceedings.](https://www.proceedings.com/74084.html)
 
