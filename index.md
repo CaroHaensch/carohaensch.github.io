@@ -61,17 +61,21 @@ Welcome! I am passionate about research on missing data, synthetic data and big 
 
 ## Current working papers
 
+[Ma, B. & Wang, X. & Hu, T. & **Haensch, A.-C.** & Hedderich, M. & Plank, B & Kreuter, F. (2024): The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models.](https://arxiv.org/pdf/2406.11096)
+
 [von der Heyde, L., **Haensch, A.**, & Wenz, A. (2023). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion.](https://doi.org/10.31235/osf.io/8je9g)
 
 [von der Heyde, L., **Haensch, A.**, & Wenz, A. (2023). Assessing Bias in LLM-Generated Synthetic Datasets: The Case of German Voter Behavior.](https://doi.org/10.31235/osf.io/97r8s)
 
-[**Haensch, A.-C.**, Ball, S., Herklotz, M., & Kreuter, F. (2023). Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data. Accepted at IEEE BigSurv 2023 Conference Proceedings.](https://arxiv.org/abs/2303.05349)
-
-[Drechsler, J. & **Haensch, A.-C.** (2023). 30 Years of Synthetic Data. Accepted at Statistical Science.](https://arxiv.org/abs/2304.02107)
-
 Systematically missing partner variables and possible multiple imputation strategies (with Reinhard Schunck)
 
 # Publications
+
+**Haensch, A.-C.** & Schunck, R. (2024). Multiple imputation for systematically missing partner variables in survey data. Accepted at Sociological Methodology.
+
+[Drechsler, J. & **Haensch, A.-C.** (2024). 30 Years of Synthetic Data. Statistical Science.] (https://www.e-publications.org/ims/submission/STS/user/submissionFile/57906?confirm=1907e523)
+
+[**Haensch, A.-C.**, Ball, S., Herklotz, M., & Kreuter, F. (2024). Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data. IEEE BigSurv 2023 Conference Proceedings.](https://www.proceedings.com/74084.html)
 
 [Weiß, Bernd, Sonja Schulz, Lisa Schmid, Sebastian Sterl, **Anna-Carolina Haensch**. Harmonizing and Synthesizing Partnership Histories from Different German Survey Infrastructures. Chapter 14. In: (Eds. Irina Tomescu-Dubrow, Christof Wolf, Kazimierz M. Slomczynski, J. Craig Jenkins).](https://www.wiley-vch.de/de?option=com_eshop&view=product&isbn=9781119712176&title=Survey%20Data%20Harmonization%20in%20the%20Social%20Sciences) 
 
@@ -104,16 +108,24 @@ Systematically missing partner variables and possible multiple imputation strate
 
 [CTIS. R based Global COVID-19 Trends and Impact Survey Microdata and Opendata API Interface (with Yue Xiong).](https://github.com/CaroHaensch/CTIS) 
 
+## Surveys and Data
+
+[Pandemic Recovery Survey.](https://search.gesis.org/research_data/SDN-10.7802-2631)) 
 
 # Teaching
 
 ## Supervised Theses
+
 - (currently ongoing) 3 PhD Theses on Statistical Education, application of ML methods in Social Sciences, and synthetic data generation with LLMs.
-- ~ 5 x Master Thesis (Statistics, University of Munich). Since 2022. Topics mostly related to the application of LLMs in synthetic data generation, application of ML methods in Social Sciences.
-- ~ 10 x Bachelor Thesis (Statistics, University of Munich). Since 2022. Topics related to the Covid-19 Trends and Impact Surveys, synthetic data (both traditional methods and LLMs). 
+- ~ 6 x Master Thesis (Statistics, University of Munich). Since 2022. Topics mostly related to the application of LLMs in synthetic data generation, missing data and application of ML methods in Social Sciences.
+- ~ 15 x Bachelor Thesis (Statistics, University of Munich). Since 2022. Topics related to  synthetic data (both traditional methods and LLMs), Multiple Imputation and the Covid-19 Trends and Impact Surveys. 
 - 3 x Bachelor Thesis (Sociology, University of Mannheim). 2021. All topics related to supervised classification of open-ended questions in surveys.
 
 ## Seminars (Master/PhD Level)
+
+- "Statistical Disclosure Control." LMU Munich (together with Jörg Drechsler). Winter 2024.
+
+- "Church and Statistics." LMU Munich (together with the Department of Catholic Theology). Winter 2024.
 
 - "Data Science Techniques for Survey Researchers." GESIS Summer School. Summer 2024.
 
@@ -121,7 +133,7 @@ Systematically missing partner variables and possible multiple imputation strate
 
 - "SURV748: Step by Step in Survey Weighting." Australian National University and Mannheim Business School. Spring 2024.
   
-- "SURV748:Step by Step in Survey Weighting." University of Maryland. Spring 2024.
+- "SURV748: Step by Step in Survey Weighting." University of Maryland. Spring 2024.
 
 - "Data Science Techniques for Survey Researchers." GESIS Summer School. Summer 2023.
 
@@ -133,6 +145,8 @@ Systematically missing partner variables and possible multiple imputation strate
 
 
 ## Seminars (Undergraduate level)
+
+- "SURV699M: Review of Statistical Concepts." International Program in Survey and Data Science. Summer 2024.
 
 - "SURV699M: Review of Statistical Concepts." International Program in Survey and Data Science. Summer 2023.
 
@@ -153,6 +167,8 @@ Systematically missing partner variables and possible multiple imputation strate
 - "Introduction to Data Collection."  University of Mannheim. Winter 2017: 2 SWS.
 
 ## Lecture (Undergraduate level)
+
+- "Statistics I for Social Scientists." University of Munich. Winter 2025: 4 SWS. 
 
 - "Statistics II for Social Scientists." University of Munich. Summer 2024: 4 SWS.
 
