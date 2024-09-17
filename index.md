@@ -8,7 +8,7 @@ layout: default
 
 Welcome! I am passionate about research on missing data, synthetic data and big data in the social sciences. I also enjoy teaching (a lot) and programming (mostly in R and Python). If you have any questions, please feel free to contact me!
 
-[Contact](https://www.soda.statistik.uni-muenchen.de/people/employees/haensch/index.html) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Teaching](#teaching) |
+[Contact](https://www.soda.statistik.uni-muenchen.de/people/employees/haensch/index.html) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Invited talks](#invited talks)|[Teaching](#teaching) 
 
 # Curriculum vitae
 
@@ -112,6 +112,43 @@ Systematically missing partner variables and possible multiple imputation strate
 
 [Pandemic Recovery Survey.](https://search.gesis.org/research_data/SDN-10.7802-2631)) 
 
+# Invited talks
+
+## Invited talks
+
+CPSS @ KONVENS 2024 - 13.09.2024 "LLMs in Political and Social Science Research" 
+
+DZHW S3 Meeting - 12.06.2024 “Assessing bias in LLM-generated synthetic datasets: examining LLM personas in German and European elections.”
+
+GESIS Lecture Series - 07.12.2023 „Can large language models predict how people vote? Evidence from Germany"
+
+B-IT Lecture Series - 07.12.23 "Can large language models predict how people vote? Evidence from Germany" 
+
+NFDI Series Show & Tell - 11.11.22 – Social Media-Daten in der Forschungspraxis II - Things to know when working with reddit data
+
+## Conference presentations
+
+JSM 2024 - Invited Panel Session: Future of Statistics and Data Science in the Era of ChatGPT and LLMs.
+
+IC2S2 2024 - Oral presentation "Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion."
+
+AAPOR 2023 (presented by Leah von der Heyde) - Oral presentation "Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion."
+
+BigSurv 2023 - Oral presentation "Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data."
+
+WSC ISI 2023 -  Oral presentation "Why do they leave? Why do they stay? Respondent's motivation in a German mixed-mode Panel"
+
+Pairfam 2022 (presented by Sebastian Sterl) - "The Whole is More than the Sum of its Parts – Studying Relationship Stability and Social Change by Pooling and Harmonizing Research Data from Various Infrastructures"
+
+Workshop "Sur­­vey Cli­­ma­­te and Trust in Sci­en­­ti­­fic Sur­­veys – Re­­cent De­­ve­­lop­­ments and Con­­tro­­ver­­­si­al Is­­su­es" 2022 - "What do panelists say about their own participation motivation? Semi-automatic classification of an open-ended question on survey motivation"
+
+ESRA 2021 (presented by Sonja Schulz) - "Measuring divorce risk with pooled survey data – A comparison between prospectively and retrospectively collected marriage biographies"
+
+BigSurv 2020 - Oral presentation "Using supervised classification for categorizing answers to an open-ended question on panel participation motivation"
+
+JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental Individual Person Data with Heterogeneous Weighting Schemes"
+
+
 # Teaching
 
 ## Supervised Theses
@@ -122,6 +159,8 @@ Systematically missing partner variables and possible multiple imputation strate
 - 3 x Bachelor Thesis (Sociology, University of Mannheim). 2021. All topics related to supervised classification of open-ended questions in surveys.
 
 ## Seminars (Master/PhD Level)
+
+- "Fine Tuning LLMs for Data Augmentation and Synthesis" (with Tobias Holtdirk) New Directions: Bridging Natural Language Processing (NLP) and Survey Research at SurvAI-Day. October 2024
 
 - "Statistical Disclosure Control." LMU Munich (together with Jörg Drechsler). Winter 2024.
 
