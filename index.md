@@ -8,56 +8,7 @@ layout: default
 
 Welcome! I am passionate about research on missing data, synthetic data and big data in the social sciences. I also enjoy teaching (a lot) and programming (mostly in R and Python). If you have any questions, please feel free to contact me!
 
-[Contact](https://www.soda.statistik.uni-muenchen.de/people/employees/haensch/index.html) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Invited talks](#invited talks)|[Teaching](#teaching) 
-
-# Curriculum vitae
-
-### Education
-
-**PhD, Sociology** 10/2017-06/2021  <br>
-*University of Mannheim, Germany* <br>
-
-**M. Sc., Survey Statistics** 09/2014 – 09/2017 <br>
-*University of Bamberg, Germany*<br>
-
-**B. A., Political Science/Sociology** 09/2011 – 09/2014<br>
-*Ludwig-Maximilians-Universität (LMU) München, Germany*<br>
-
-
-### Professional Experience
-
-**Lecturer (Akademische Rätin a.Z.)** Since 01/2024 <br>
-*University of Munich* <br>
-*Chair of Statistics and Data Science in Social Sciences and the Humanities*  <be>
-
-**Visiting scholar** 04/2023-08/2023 <br>
-*New York University* <br>
-*Wagner School of Public Policy*  <br>
-
-**Postdoctoral researcher** 04/2021-12/2023 <br>
-*University of Munich* <br>
-*Chair of Statistics and Data Science in Social Sciences and the Humanities*  <br>
-
-**Assistant professor** Since 08/2021 <br>
-*University of Maryland* <br>
-*International Program in Survey and Data Science*  <br>
-
-**Postdoctoral researcher** 10/2021 -12/2021 <br>
-*Institute for Employment Research* <br>
-*High-frequency Online Personal Panel (HOPP). Life and work situations in times of Corona*  <br>
-
-**Doctoral researcher** 08/2019-02/2021 <br>
-*University of Mannheim* <br>
-*International Program in Survey and Data Science*<br>
-
-**Doctoral researcher** 09/2017-04/2021 <br>
-*GESIS – Leibniz Institute for the Social Sciences* <br>
-
-**Student assistant** 2012 – 2017  <br>
-*Institute for Employment Research:* Statistical Methods Centre <br>
-*Ludwig-Maximilians-Universität (LMU):* Chair of Empirical Political Research and Policy Analysis <br>
-*Leibniz-Institute for Educational Trajectories (LIfBi e.V.)* <br>
-*Statistical Office for the Regions Berlin and Brandenburg:* Mikrozensus.<be>
+[Contact](https://www.soda.statistik.uni-muenchen.de/people/employees/haensch/index.html) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Invited talks](#invited talks)|[Teaching](#teaching) |[Mix](#mix) 
 
 ## Current working papers
 
@@ -111,6 +62,56 @@ Systematically missing partner variables and possible multiple imputation strate
 ## Surveys and Data
 
 [Pandemic Recovery Survey.](https://search.gesis.org/research_data/SDN-10.7802-2631)) 
+
+
+# Curriculum vitae
+
+### Education
+
+**PhD, Sociology** 10/2017-06/2021  <br>
+*University of Mannheim, Germany* <br>
+
+**M. Sc., Survey Statistics** 09/2014 – 09/2017 <br>
+*University of Bamberg, Germany*<br>
+
+**B. A., Political Science/Sociology** 09/2011 – 09/2014<br>
+*Ludwig-Maximilians-Universität (LMU) München, Germany*<br>
+
+
+### Professional Experience
+
+**Lecturer (Akademische Rätin a.Z.)** Since 01/2024 <br>
+*University of Munich* <br>
+*Chair of Statistics and Data Science in Social Sciences and the Humanities*  <be>
+
+**Visiting scholar** 04/2023-08/2023 <br>
+*New York University* <br>
+*Wagner School of Public Policy*  <br>
+
+**Postdoctoral researcher** 04/2021-12/2023 <br>
+*University of Munich* <br>
+*Chair of Statistics and Data Science in Social Sciences and the Humanities*  <br>
+
+**Assistant professor** Since 08/2021 <br>
+*University of Maryland* <br>
+*International Program in Survey and Data Science*  <br>
+
+**Postdoctoral researcher** 10/2021 -12/2021 <br>
+*Institute for Employment Research* <br>
+*High-frequency Online Personal Panel (HOPP). Life and work situations in times of Corona*  <br>
+
+**Doctoral researcher** 08/2019-02/2021 <br>
+*University of Mannheim* <br>
+*International Program in Survey and Data Science*<br>
+
+**Doctoral researcher** 09/2017-04/2021 <br>
+*GESIS – Leibniz Institute for the Social Sciences* <br>
+
+**Student assistant** 2012 – 2017  <br>
+*Institute for Employment Research:* Statistical Methods Centre <br>
+*Ludwig-Maximilians-Universität (LMU):* Chair of Empirical Political Research and Policy Analysis <br>
+*Leibniz-Institute for Educational Trajectories (LIfBi e.V.)* <br>
+*Statistical Office for the Regions Berlin and Brandenburg:* Mikrozensus.<be>
 
 # Invited talks
 
@@ -233,4 +234,19 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 ## Other
 
 - "Meta-Analysis in Social Research and Survey Methodology." (together with Bernd Weiß and Jessica Wengrzik) GESIS Summer School 2018.
+
+# Mix
+
+## Board Membership
+
+- 2024-2026 Eurostat EMOS Board
+
+## Awards and Stipends
+
+- AAPOR Burns “Bud” Roper Fellow Award 2022
+- (as part of the CTIS team) Warren J. Mitofsky Innovators Award 2022
+- (as part of the CTIS team) AAPOR Policy Impact Award 
+- Max-Weber-Programm (undergraduate and graduate stipend) 2011-2017
+
+
 
