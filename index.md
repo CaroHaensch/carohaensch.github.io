@@ -10,7 +10,7 @@ Welcome! I am passionate about research on missing data, synthetic data and big 
 
 [Contact](https://www.soda.statistik.uni-muenchen.de/people/employees/haensch/index.html) |[Curriculum vitae](#curriculum-vitae) |[Publications](#publications) |[Invited talks](#invited talks)|[Teaching](#teaching) |[Mix](#mix) 
 
-## Current working papers
+## Current working papers and projects
 
 [Ma, B. & Wang, X. & Hu, T. & **Haensch, A.-C.** & Hedderich, M. & Plank, B & Kreuter, F. (2024): The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models.](https://arxiv.org/pdf/2406.11096)
 
@@ -18,7 +18,7 @@ Welcome! I am passionate about research on missing data, synthetic data and big 
 
 [von der Heyde, L., **Haensch, A.**, & Wenz, A. (2023). Assessing Bias in LLM-Generated Synthetic Datasets: The Case of German Voter Behavior.](https://doi.org/10.31235/osf.io/97r8s)
 
-Systematically missing partner variables and possible multiple imputation strategies (with Reinhard Schunck)
+Creating a MICE module for Python
 
 # Publications
 
