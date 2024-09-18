@@ -127,7 +127,7 @@ B-IT Lecture Series - 07.12.23 "Can large language models predict how people vot
 
 NFDI Series Show & Tell - 11.11.22 – Social Media-Daten in der Forschungspraxis II - Things to know when working with reddit data
 
-## Conference presentations
+## Selected conference presentations
 
 JSM 2024 - Invited Panel Session: Future of Statistics and Data Science in the Era of ChatGPT and LLMs.
 
@@ -237,16 +237,20 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 
 # Mix
 
+## Awards and Stipends
+
+- 2022 AAPOR Burns “Bud” Roper Fellow Award 
+- 2022 (as part of the CTIS team) AAPOR Warren J. Mitofsky Innovators Award 
+- 2022 (as part of the CTIS team) AAPOR Policy Impact Award 
+- 2011-2017 Max-Weber-Programm (undergraduate and graduate stipend) 
+
+## Stipends and Grants
+- 2024 -2025 ~ 20000 Euro Promotion of teaching for the project RAINER - R Assistant IN Error Resolution
+- 2023 ~ 10000 Euro LMU-NYU Scholarship
+
 ## Board Membership
 
 - 2024-2026 Eurostat EMOS Board
-
-## Awards and Stipends
-
-- AAPOR Burns “Bud” Roper Fellow Award 2022
-- (as part of the CTIS team) Warren J. Mitofsky Innovators Award 2022
-- (as part of the CTIS team) AAPOR Policy Impact Award 
-- Max-Weber-Programm (undergraduate and graduate stipend) 2011-2017
-
-
+- 2023-2025 Ethikkommision Fakultät 16 LMU
+- 2024-2026 Frauenbeauftragte Institut für Statistik, LMU
 
