@@ -3,7 +3,7 @@ layout: default
 ---
 
 [LinkedIn](https://de.linkedin.com/in/anna-carolina-haensch-626b1b16a) |
-[University of Munich](https://www.stat.lmu.de/soda/en/team/contact-page/anna-carolina-haensch-10689cb3.html)|
+[University of Munich](https://www.stat.lmu.de/soda/en/team/contact-page/anna-carolina-haensch-10689cb3.html) |
 [Twitter](https://twitter.com/CarolinaHaensch)
 
 Welcome! I am passionate about research on missing data, synthetic data and big data in the social sciences. I also enjoy teaching (a lot) and programming (mostly in R and Python). If you have any questions, please feel free to contact me!
@@ -16,9 +16,9 @@ Welcome! I am passionate about research on missing data, synthetic data and big 
 
 [von der Heyde, L., **Haensch, A.**, & Wenz, A. (2023). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion.](https://doi.org/10.31235/osf.io/8je9g)
 
-[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2023). Assessing Bias in LLM-Generated Synthetic Datasets: The Case of German Voter Behavior.](https://doi.org/10.31235/osf.io/97r8s)
+[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2023). United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections.](https://arxiv.org/abs/2409.09045)
 
-Creating a MICE module for Python
+[MICE module for Python with Alex Makarevych.](https://github.com/theYGE/MICE/tree/feature/pmm)
 
 # Publications
 
