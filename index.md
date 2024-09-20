@@ -121,6 +121,8 @@ CPSS @ KONVENS 2024 - 13.09.2024 "LLMs in Political and Social Science Research"
 
 DZHW S3 Meeting - 12.06.2024 “Assessing bias in LLM-generated synthetic datasets: examining LLM personas in German and European elections.”
 
+Long Night of the Universities Munich - 23.05.2024 "Of Data, Algorithms and Humans: Generative AI as Social Science Superhero?"
+
 GESIS Lecture Series - 07.12.2023 „Can large language models predict how people vote? Evidence from Germany"
 
 B-IT Lecture Series - 07.12.23 "Can large language models predict how people vote? Evidence from Germany" 
