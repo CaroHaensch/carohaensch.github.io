@@ -2,7 +2,11 @@
 layout: default
 ---
 
-I am a passionate about research on missing data, synthetic data and big data in the social sciences. I also enjoy teaching (a lot) and programming (mostly in R and Python). 
+[LinkedIn](https://de.linkedin.com/in/anna-carolina-haensch-626b1b16a) |
+[University of Munich](https://www.stat.lmu.de/soda/en/team/contact-page/anna-carolina-haensch-10689cb3.html) |
+[Twitter](https://twitter.com/CarolinaHaensch)
+
+Welcome! I am passionate about research on missing data, synthetic data and big data in the social sciences. I also enjoy teaching (a lot) and programming (mostly in R and Python). If you have any questions, please feel free to contact me!
 
 # Curriculum vitae
 
@@ -195,4 +199,60 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 - 2024-2026 Eurostat EMOS Board
 - 2023-2025 Ethikkommision Fakultät 16 LMU
 - 2024-2026 Frauenbeauftragte Institut für Statistik, LMU
+
+
+
+
+## Current working papers and projects
+
+[Ma, B. & Wang, X. & Hu, T. & **Haensch, A.-C.** & Hedderich, M. & Plank, B & Kreuter, F. (2024): The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models.](https://arxiv.org/pdf/2406.11096)
+
+[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2023). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion.](https://doi.org/10.31235/osf.io/8je9g)
+
+[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2023). United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections.](https://arxiv.org/abs/2409.09045)
+
+[MICE module for Python with Alex Makarevych.](https://github.com/theYGE/MICE/tree/feature/pmm)
+
+# Publications
+
+**Haensch, A.-C.** & Schunck, R. (2024). Multiple imputation for systematically missing partner variables in survey data. Accepted at Sociological Methodology.
+
+[Drechsler, J. & **Haensch, A.-C.** (2024). 30 Years of Synthetic Data. Statistical Science.](https://www.e-publications.org/ims/submission/STS/user/submissionFile/57906?confirm=1907e523)
+
+[**Haensch, A.-C.**, Ball, S., Herklotz, M., & Kreuter, F. (2024). Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data. IEEE BigSurv 2023 Conference Proceedings.](https://www.proceedings.com/74084.html)
+
+[Weiß, Bernd, Sonja Schulz, Lisa Schmid, Sebastian Sterl, **Anna-Carolina Haensch**. Harmonizing and Synthesizing Partnership Histories from Different German Survey Infrastructures. Chapter 14. In: (Eds. Irina Tomescu-Dubrow, Christof Wolf, Kazimierz M. Slomczynski, J. Craig Jenkins).](https://www.wiley-vch.de/de?option=com_eshop&view=product&isbn=9781119712176&title=Survey%20Data%20Harmonization%20in%20the%20Social%20Sciences) 
+
+[**Anna-Carolina Haensch**, Jonathan Bartlett, Bernd Weiß. Multiple imputation of partially observed covariates in  discrete-time survival analysis. In: Sociological Methods & Research.](https://journals.sagepub.com/doi/10.1177/00491241221140147)
+
+[**Haensch, Anna-Carolina**, Bernd Weiß, Patricia Steins, Priscilla Chyrva, Katja Bitz. Forthcoming 2022. The semi-automatic categorization of open-ended questions on survey motivation and its reuse for attrition analysis. In:  Frontiers in Sociology (Big Data and Machine Learning in Sociology).](https://www.frontiersin.org/articles/10.3389/fdata.2022.880554/full)
+
+[**Haensch, Anna-Carolina**, Jacob Beck, Marie-Lou Sohnius. 2022. UMD survey offers real-time data-driven glimpse into Ukrainian well-being. University of Maryland Social Data Science Center blog.](https://socialdatascience.umd.edu/umd-survey-offers-real-time-data-driven-glimpse-into-ukrainian-well-being/) 
+
+[**Haensch, Anna-Carolina**, Jacob Beck, Frauke Kreuter. Forthcoming June 2022. Die COVID-19 Trends and Impact Surveys. In: Neue Dimensionen in Data Science. Interdisziplinäre Ansätze und Anwendungen aus Wissenschaft und Wirtschaft (Eds. Barbara Wawrzyniak; Michael Herter).](https://www.vde-verlag.de/buecher/537721/neue-dimensionen-in-data-science.html#:~:text=Dieser%20Titel%20erscheint%20Juni%202022,Umgang%20mit%20Daten%20immer%20wichtiger) 
+
+[**Haensch, Anna-Carolina**; Herklotz, Markus; Keusch, Florian; Kreuter, Frauke. 2021. The international program in survey and data science (IPSDS): a modern study program for working professionals. In: Statistical Journal of the IAOS, Vol. 37, No. 3: pp. 921-933.](https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210833)
+
+[**Haensch, Anna-Carolina**. 2021. Dealing with various flavors of missing data in ex-post survey harmonization and beyond. PhD Dissertation. University of Mannheim.](https://madoc.bib.uni-mannheim.de/59940/) 
+
+[**Haensch, Anna-Carolina**,  Drechsler, Jörg and Sarah Bernhard. 2020. TippingSens: An R Shiny Application to Facilitate Sensitivity Analysis for Causal Inference Under Confounding. (IAB-Discussion Paper, 29/2020), Nürnberg.](https://www.iab.de/183/section.aspx/Publikation/K200925EAL)
+
+[**Haensch, Anna-Carolina**, Corinna Stöckinger, and Doris Stingl. 2020. "Schluss mit Sterne gucken. Frequentistische Alternativen zum p-Wert." In: Bad Science: Die dunkle Seite der Statistik (Eds. Rebekka Kluge, Florian Meinfelder).](http://www.vahlen.de/productview.aspx?product=27606921&medium=print)
+
+[**Haensch, Anna-Carolina**, Sonja Schulz, Sebastian Sterl, and Bernd Weiß. 2019. The HaSpaD (Harmonizing and Synthesizing Partnership Histories from Different Research Data Infrastructures) Project. In: Harmonization Newsletter, Vol. 5, No. 1: 20-21.](https://www.asc.ohio-state.edu/dataharmonization/wp-content/uploads/2019/07/Harmonization-Newsletter-v5n1-Spring-Summer-FINAL-2019.pdf)
+
+[Kreitzscheck, Mathis, and **Anna-Carolina Haensch**. 2019. "Klopfet an, so wird euch aufgetan?: Teilnahmeverweigerung und Nonresponse Bias in der fünften Kirchenmitgliedschaftsuntersuchung." Praktische Theologie 54 (1): 43-51.](https://doi.org/10.14315/prth-2019-540110)
+
+[**Haensch, Anna-Carolina**. 2016. "Armutsgefährdung in Berlin und Brandenburg 2014: Eine Analyse nach Lebensformen und Risikolagen." Zeitschrift für amtliche Statistik Berlin Brandenburg 10 (1): 36-41.](https://www.statistik-berlin-brandenburg.de/produkte/zeitschrift/2016/HZ_201601.pdf)
+
+[**Haensch, Anna-Carolina**. 2014. Die Effekte von Koalitionspräferenzen und -erwartungen auf Wahlentscheidungen in Verhätniswahlsystemen. Münchener Beiträge zur Politikwissenschaft.](https://epub.ub.uni-muenchen.de/21845/)
+
+
+## R package
+
+[CTIS. R based Global COVID-19 Trends and Impact Survey Microdata and Opendata API Interface (with Yue Xiong).](https://github.com/CaroHaensch/CTIS) 
+
+## Surveys and Data
+
+[Pandemic Recovery Survey.](https://search.gesis.org/research_data/SDN-10.7802-2631)) 
 
