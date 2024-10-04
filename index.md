@@ -211,8 +211,6 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 
 [von der Heyde, L., **Haensch, A.**, & Wenz, A. (2023). United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections.](https://arxiv.org/abs/2409.09045)
 
-[MICE module for Python with Alex Makarevych.](https://github.com/theYGE/MICE/tree/feature/pmm)
-
 # Publications
 
 **Haensch, A.-C.** & Schunck, R. (2024). Multiple imputation for systematically missing partner variables in survey data. Accepted at Sociological Methodology.
