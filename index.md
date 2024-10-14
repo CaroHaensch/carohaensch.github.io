@@ -110,7 +110,7 @@ Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate P
 
 ## Surveys and Data
 
-[Pandemic Recovery Survey.](https://search.gesis.org/research_data/SDN-10.7802-2631)) 
+[Pandemic Recovery Survey.](https://search.gesis.org/research_data/SDN-10.7802-2631)
 
 
 
