@@ -108,13 +108,15 @@ Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate P
 
 [CTIS. R based Global COVID-19 Trends and Impact Survey Microdata and Opendata API Interface (with Yue Xiong).](https://github.com/CaroHaensch/CTIS) 
 
-## Surveys and Data
+## Survey Data Cpllection and Data Products
 
 [*Haensch, Anna-Carolina*, Kreuter, Frauke, La Motte-Kerr, W., Li, Yao, Stewart, Kathleen, Weber, Wiebke, Zins, Stefan, Castro, Emma, Deen, Amanda, Ewald, Louisa M., Gakidou, Emmanuela, Gillespie, Catherine W., Huntely, Bethany M., Tracy, Alison, Mokdad, Ali H., Bellettiere, John, Farag, Tamer H., Lee, Kristina, & Palani, Sid (2024). Pandemic Recovery Survey. GESIS, Köln. Datenfile Version 1.0.0.](https://search.gesis.org/research_data/SDN-10.7802-2631)
 
-[CTIS UMD team at UMD and Facebook (2024). The University of Maryland Social Data Science Center Global COVID-19 Trends and Impact Survey in partnership with Facebook.](https://covidmap.umd.edu/)
+[*Haensch, Anna-Carolina* (2023). Overview of the “Syntucky” data for the participants of the Data literacy & Evidence building class by NYU/Accenture/UMD/KYStats/Coleridge Initiative](https://osf.io/preprints/socarxiv/4u6we)
 
-[*Haensch, Anna-Carolina* (2024). Overview of the “Syntucky” data for the participants of the Data literacy & Evidence building class by NYU/Accenture/UMD/KYStats/Coleridge Initiative](https://osf.io/preprints/socarxiv/4u6we)
+[CTIS UMD team at UMD and Facebook (2022). The University of Maryland Social Data Science Center Global COVID-19 Trends and Impact Survey in partnership with Facebook.](https://covidmap.umd.edu/)
+
+
 
 
 
