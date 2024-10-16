@@ -61,11 +61,11 @@ Welcome! I am passionate about research on missing data, synthetic data and big 
 
 ## Current working papers and projects
 
-[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion.](https://doi.org/10.31235/osf.io/8je9g)
+[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion. Under review.](https://doi.org/10.31235/osf.io/8je9g)
 
-Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate Partner Violence Against Women with Children in Mexico - Insights from Model-Based Boosting.
+Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate Partner Violence Against Women with Children in Mexico - Insights from Model-Based Boosting. Under Review.
 
-[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections.](https://arxiv.org/abs/2409.09045)
+[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections. Under Review.](https://arxiv.org/abs/2409.09045)
 
 ## Published in journals (Statistics and CSS) or conference proceedings (NLP)
 
