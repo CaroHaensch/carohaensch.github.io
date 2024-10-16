@@ -9,6 +9,68 @@ Welcome! I am passionate about research on missing data, synthetic data and big 
 
 # Curriculum vitae
 
+
+
+## Publications
+
+### Current working papers and projects
+
+[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion. Under review.](https://doi.org/10.31235/osf.io/8je9g)
+
+Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate Partner Violence Against Women with Children in Mexico - Insights from Model-Based Boosting. Under Review.
+
+[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections. Under Review.](https://arxiv.org/abs/2409.09045)
+
+### Published in journals (Statistics and CSS) or conference proceedings (NLP)
+
+[Ma, B. & Wang, X. & Hu, T. & **Haensch, A.-C.** & Hedderich, M. & Plank, B & Kreuter, F. (2024): The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models. Accepted at EMNLP Findings 2024.](https://arxiv.org/pdf/2406.11096)
+
+**Haensch, A.-C.** & Schunck, R. (2024). Multiple Imputation for Systematically Missing Partner Variables in Survey Data. Accepted at Sociological Methodology.
+
+[Drechsler, J. & **Haensch, A.-C.** (2024). 30 Years of Synthetic Data. Statistical Science.](https://www.e-publications.org/ims/submission/STS/user/submissionFile/57906?confirm=1907e523)
+
+[**Haensch, A.-C.**, Ball, S., Herklotz, M., & Kreuter, F. (2024). Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data. IEEE BigSurv 2023 Conference Proceedings.](https://www.proceedings.com/74084.html)
+
+[Weiß, Bernd, Sonja Schulz, Lisa Schmid, Sebastian Sterl, **Anna-Carolina Haensch**. Harmonizing and Synthesizing Partnership Histories from Different German Survey Infrastructures. Chapter 14. In: (Eds. Irina Tomescu-Dubrow, Christof Wolf, Kazimierz M. Slomczynski, J. Craig Jenkins).](https://www.wiley-vch.de/de?option=com_eshop&view=product&isbn=9781119712176&title=Survey%20Data%20Harmonization%20in%20the%20Social%20Sciences) 
+
+[**Anna-Carolina Haensch**, Jonathan Bartlett, Bernd Weiß. Multiple imputation of partially observed covariates in  discrete-time survival analysis. In: Sociological Methods & Research. Vol 53, Issue 4.](https://journals.sagepub.com/doi/10.1177/00491241221140147)
+
+[**Haensch, Anna-Carolina**, Bernd Weiß, Patricia Steins, Priscilla Chyrva, Katja Bitz. 2022. The semi-automatic categorization of open-ended questions on survey motivation and its reuse for attrition analysis. In:  Frontiers in Sociology (Big Data and Machine Learning in Sociology).](https://www.frontiersin.org/articles/10.3389/fdata.2022.880554/full)
+
+[**Haensch, Anna-Carolina**, Jacob Beck, Marie-Lou Sohnius. 2022. UMD survey offers real-time data-driven glimpse into Ukrainian well-being. University of Maryland Social Data Science Center blog.](https://socialdatascience.umd.edu/umd-survey-offers-real-time-data-driven-glimpse-into-ukrainian-well-being/) 
+
+[**Haensch, Anna-Carolina**, Jacob Beck, Frauke Kreuter. 2022. Die COVID-19 Trends and Impact Surveys. In: Neue Dimensionen in Data Science. Interdisziplinäre Ansätze und Anwendungen aus Wissenschaft und Wirtschaft (Eds. Barbara Wawrzyniak; Michael Herter).](https://www.vde-verlag.de/buecher/537721/neue-dimensionen-in-data-science.html#:~:text=Dieser%20Titel%20erscheint%20Juni%202022,Umgang%20mit%20Daten%20immer%20wichtiger) 
+
+[**Haensch, Anna-Carolina**; Herklotz, Markus; Keusch, Florian; Kreuter, Frauke. 2021. The international program in survey and data science (IPSDS): a modern study program for working professionals. In: Statistical Journal of the IAOS, Vol. 37, No. 3: pp. 921-933.](https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210833)
+
+[**Haensch, Anna-Carolina**. 2021. Dealing with various flavors of missing data in ex-post survey harmonization and beyond. PhD Dissertation. University of Mannheim.](https://madoc.bib.uni-mannheim.de/59940/) 
+
+[**Haensch, Anna-Carolina**,  Drechsler, Jörg and Sarah Bernhard. 2020. TippingSens: An R Shiny Application to Facilitate Sensitivity Analysis for Causal Inference Under Confounding. (IAB-Discussion Paper, 29/2020), Nürnberg.](https://www.iab.de/183/section.aspx/Publikation/K200925EAL)
+
+[**Haensch, Anna-Carolina**, Corinna Stöckinger, and Doris Stingl. 2020. "Schluss mit Sterne gucken. Frequentistische Alternativen zum p-Wert." In: Bad Science: Die dunkle Seite der Statistik (Eds. Rebekka Kluge, Florian Meinfelder).](http://www.vahlen.de/productview.aspx?product=27606921&medium=print)
+
+[**Haensch, Anna-Carolina**, Sonja Schulz, Sebastian Sterl, and Bernd Weiß. 2019. The HaSpaD (Harmonizing and Synthesizing Partnership Histories from Different Research Data Infrastructures) Project. In: Harmonization Newsletter, Vol. 5, No. 1: 20-21.](https://www.asc.ohio-state.edu/dataharmonization/wp-content/uploads/2019/07/Harmonization-Newsletter-v5n1-Spring-Summer-FINAL-2019.pdf)
+
+[Kreitzscheck, Mathis, and **Anna-Carolina Haensch**. 2019. "Klopfet an, so wird euch aufgetan?: Teilnahmeverweigerung und Nonresponse Bias in der fünften Kirchenmitgliedschaftsuntersuchung." Praktische Theologie 54 (1): 43-51.](https://doi.org/10.14315/prth-2019-540110)
+
+[**Haensch, Anna-Carolina**. 2016. "Armutsgefährdung in Berlin und Brandenburg 2014: Eine Analyse nach Lebensformen und Risikolagen." Zeitschrift für amtliche Statistik Berlin Brandenburg 10 (1): 36-41.](https://www.statistik-berlin-brandenburg.de/produkte/zeitschrift/2016/HZ_201601.pdf)
+
+[**Haensch, Anna-Carolina**. 2014. Die Effekte von Koalitionspräferenzen und -erwartungen auf Wahlentscheidungen in Verhätniswahlsystemen. Münchener Beiträge zur Politikwissenschaft.](https://epub.ub.uni-muenchen.de/21845/)
+
+
+### R package
+
+[CTIS. R based Global COVID-19 Trends and Impact Survey Microdata and Opendata API Interface (with Yue Xiong).](https://github.com/CaroHaensch/CTIS) 
+
+### Survey Data Cpllection and Data Products
+
+[*Haensch, Anna-Carolina*, Kreuter, Frauke, La Motte-Kerr, W., Li, Yao, Stewart, Kathleen, Weber, Wiebke, Zins, Stefan, Castro, Emma, Deen, Amanda, Ewald, Louisa M., Gakidou, Emmanuela, Gillespie, Catherine W., Huntely, Bethany M., Tracy, Alison, Mokdad, Ali H., Bellettiere, John, Farag, Tamer H., Lee, Kristina, & Palani, Sid (2024). Pandemic Recovery Survey. GESIS, Köln. Datenfile Version 1.0.0.](https://search.gesis.org/research_data/SDN-10.7802-2631)
+
+[*Haensch, Anna-Carolina* (2023). Overview of the “Syntucky” data for the participants of the Data literacy & Evidence building class by NYU/Accenture/UMD/KYStats/Coleridge Initiative](https://osf.io/preprints/socarxiv/4u6we)
+
+[CTIS UMD team at UMD and Facebook (2022). The University of Maryland Social Data Science Center Global COVID-19 Trends and Impact Survey in partnership with Facebook.](https://covidmap.umd.edu/)
+
+
 ### Education
 
 **PhD, Sociology** 10/2017-06/2021  <br>
@@ -54,75 +116,13 @@ Welcome! I am passionate about research on missing data, synthetic data and big 
 *Institute for Employment Research:* Statistical Methods Centre <br>
 *Ludwig-Maximilians-Universität (LMU):* Chair of Empirical Political Research and Policy Analysis <br>
 *Leibniz-Institute for Educational Trajectories (LIfBi e.V.)* <br>
-*Statistical Office for the Regions Berlin and Brandenburg:* Mikrozensus.<be>
+*Statistical Office for the Regions Berlin and Brandenburg:* Mikrozensus.<be
 
 
-# Publications
-
-## Current working papers and projects
-
-[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion. Under review.](https://doi.org/10.31235/osf.io/8je9g)
-
-Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate Partner Violence Against Women with Children in Mexico - Insights from Model-Based Boosting. Under Review.
-
-[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections. Under Review.](https://arxiv.org/abs/2409.09045)
-
-## Published in journals (Statistics and CSS) or conference proceedings (NLP)
-
-[Ma, B. & Wang, X. & Hu, T. & **Haensch, A.-C.** & Hedderich, M. & Plank, B & Kreuter, F. (2024): The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models. Accepted at EMNLP Findings 2024.](https://arxiv.org/pdf/2406.11096)
-
-**Haensch, A.-C.** & Schunck, R. (2024). Multiple Imputation for Systematically Missing Partner Variables in Survey Data. Accepted at Sociological Methodology.
-
-[Drechsler, J. & **Haensch, A.-C.** (2024). 30 Years of Synthetic Data. Statistical Science.](https://www.e-publications.org/ims/submission/STS/user/submissionFile/57906?confirm=1907e523)
-
-[**Haensch, A.-C.**, Ball, S., Herklotz, M., & Kreuter, F. (2024). Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data. IEEE BigSurv 2023 Conference Proceedings.](https://www.proceedings.com/74084.html)
-
-[Weiß, Bernd, Sonja Schulz, Lisa Schmid, Sebastian Sterl, **Anna-Carolina Haensch**. Harmonizing and Synthesizing Partnership Histories from Different German Survey Infrastructures. Chapter 14. In: (Eds. Irina Tomescu-Dubrow, Christof Wolf, Kazimierz M. Slomczynski, J. Craig Jenkins).](https://www.wiley-vch.de/de?option=com_eshop&view=product&isbn=9781119712176&title=Survey%20Data%20Harmonization%20in%20the%20Social%20Sciences) 
-
-[**Anna-Carolina Haensch**, Jonathan Bartlett, Bernd Weiß. Multiple imputation of partially observed covariates in  discrete-time survival analysis. In: Sociological Methods & Research. Vol 53, Issue 4.](https://journals.sagepub.com/doi/10.1177/00491241221140147)
-
-[**Haensch, Anna-Carolina**, Bernd Weiß, Patricia Steins, Priscilla Chyrva, Katja Bitz. 2022. The semi-automatic categorization of open-ended questions on survey motivation and its reuse for attrition analysis. In:  Frontiers in Sociology (Big Data and Machine Learning in Sociology).](https://www.frontiersin.org/articles/10.3389/fdata.2022.880554/full)
-
-[**Haensch, Anna-Carolina**, Jacob Beck, Marie-Lou Sohnius. 2022. UMD survey offers real-time data-driven glimpse into Ukrainian well-being. University of Maryland Social Data Science Center blog.](https://socialdatascience.umd.edu/umd-survey-offers-real-time-data-driven-glimpse-into-ukrainian-well-being/) 
-
-[**Haensch, Anna-Carolina**, Jacob Beck, Frauke Kreuter. 2022. Die COVID-19 Trends and Impact Surveys. In: Neue Dimensionen in Data Science. Interdisziplinäre Ansätze und Anwendungen aus Wissenschaft und Wirtschaft (Eds. Barbara Wawrzyniak; Michael Herter).](https://www.vde-verlag.de/buecher/537721/neue-dimensionen-in-data-science.html#:~:text=Dieser%20Titel%20erscheint%20Juni%202022,Umgang%20mit%20Daten%20immer%20wichtiger) 
-
-[**Haensch, Anna-Carolina**; Herklotz, Markus; Keusch, Florian; Kreuter, Frauke. 2021. The international program in survey and data science (IPSDS): a modern study program for working professionals. In: Statistical Journal of the IAOS, Vol. 37, No. 3: pp. 921-933.](https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210833)
-
-[**Haensch, Anna-Carolina**. 2021. Dealing with various flavors of missing data in ex-post survey harmonization and beyond. PhD Dissertation. University of Mannheim.](https://madoc.bib.uni-mannheim.de/59940/) 
-
-[**Haensch, Anna-Carolina**,  Drechsler, Jörg and Sarah Bernhard. 2020. TippingSens: An R Shiny Application to Facilitate Sensitivity Analysis for Causal Inference Under Confounding. (IAB-Discussion Paper, 29/2020), Nürnberg.](https://www.iab.de/183/section.aspx/Publikation/K200925EAL)
-
-[**Haensch, Anna-Carolina**, Corinna Stöckinger, and Doris Stingl. 2020. "Schluss mit Sterne gucken. Frequentistische Alternativen zum p-Wert." In: Bad Science: Die dunkle Seite der Statistik (Eds. Rebekka Kluge, Florian Meinfelder).](http://www.vahlen.de/productview.aspx?product=27606921&medium=print)
-
-[**Haensch, Anna-Carolina**, Sonja Schulz, Sebastian Sterl, and Bernd Weiß. 2019. The HaSpaD (Harmonizing and Synthesizing Partnership Histories from Different Research Data Infrastructures) Project. In: Harmonization Newsletter, Vol. 5, No. 1: 20-21.](https://www.asc.ohio-state.edu/dataharmonization/wp-content/uploads/2019/07/Harmonization-Newsletter-v5n1-Spring-Summer-FINAL-2019.pdf)
-
-[Kreitzscheck, Mathis, and **Anna-Carolina Haensch**. 2019. "Klopfet an, so wird euch aufgetan?: Teilnahmeverweigerung und Nonresponse Bias in der fünften Kirchenmitgliedschaftsuntersuchung." Praktische Theologie 54 (1): 43-51.](https://doi.org/10.14315/prth-2019-540110)
-
-[**Haensch, Anna-Carolina**. 2016. "Armutsgefährdung in Berlin und Brandenburg 2014: Eine Analyse nach Lebensformen und Risikolagen." Zeitschrift für amtliche Statistik Berlin Brandenburg 10 (1): 36-41.](https://www.statistik-berlin-brandenburg.de/produkte/zeitschrift/2016/HZ_201601.pdf)
-
-[**Haensch, Anna-Carolina**. 2014. Die Effekte von Koalitionspräferenzen und -erwartungen auf Wahlentscheidungen in Verhätniswahlsystemen. Münchener Beiträge zur Politikwissenschaft.](https://epub.ub.uni-muenchen.de/21845/)
-
-
-## R package
-
-[CTIS. R based Global COVID-19 Trends and Impact Survey Microdata and Opendata API Interface (with Yue Xiong).](https://github.com/CaroHaensch/CTIS) 
-
-## Survey Data Cpllection and Data Products
-
-[*Haensch, Anna-Carolina*, Kreuter, Frauke, La Motte-Kerr, W., Li, Yao, Stewart, Kathleen, Weber, Wiebke, Zins, Stefan, Castro, Emma, Deen, Amanda, Ewald, Louisa M., Gakidou, Emmanuela, Gillespie, Catherine W., Huntely, Bethany M., Tracy, Alison, Mokdad, Ali H., Bellettiere, John, Farag, Tamer H., Lee, Kristina, & Palani, Sid (2024). Pandemic Recovery Survey. GESIS, Köln. Datenfile Version 1.0.0.](https://search.gesis.org/research_data/SDN-10.7802-2631)
-
-[*Haensch, Anna-Carolina* (2023). Overview of the “Syntucky” data for the participants of the Data literacy & Evidence building class by NYU/Accenture/UMD/KYStats/Coleridge Initiative](https://osf.io/preprints/socarxiv/4u6we)
-
-[CTIS UMD team at UMD and Facebook (2022). The University of Maryland Social Data Science Center Global COVID-19 Trends and Impact Survey in partnership with Facebook.](https://covidmap.umd.edu/)
-
-
-
-
-
-# Invited talks
 
 ## Invited talks
+
+### Invited talks
 
 CPSS @ KONVENS 2024 - 13.09.2024 "LLMs in Political and Social Science Research" 
 
@@ -136,7 +136,7 @@ B-IT Lecture Series - 07.12.23 "Can large language models predict how people vot
 
 NFDI Series Show & Tell - 11.11.22 – Social Media-Daten in der Forschungspraxis II - Things to know when working with reddit data
 
-## Selected conference presentations
+### Selected conference presentations
 
 JSM 2024 - Invited Panel Session: Future of Statistics and Data Science in the Era of ChatGPT and LLMs.
 
@@ -159,16 +159,16 @@ BigSurv 2020 - Oral presentation "Using supervised classification for categorizi
 JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental Individual Person Data with Heterogeneous Weighting Schemes"
 
 
-# Teaching
+## Teaching
 
-## Supervised Theses
+### Supervised Theses
 
 - (currently ongoing) 3 PhD Theses on Statistical Education, application of ML methods in Social Sciences, and synthetic data generation with LLMs.
 - ~ 6 x Master Thesis (Statistics, University of Munich). Since 2022. Topics mostly related to the application of LLMs in synthetic data generation, missing data and application of ML methods in Social Sciences.
 - ~ 15 x Bachelor Thesis (Statistics, University of Munich). Since 2022. Topics related to  synthetic data (both traditional methods and LLMs), Multiple Imputation and the Covid-19 Trends and Impact Surveys. 
 - 3 x Bachelor Thesis (Sociology, University of Mannheim). 2021. All topics related to supervised classification of open-ended questions in surveys.
 
-## Seminars (Master/PhD Level)
+### Seminars (Master/PhD Level)
 
 - "Fine Tuning LLMs for Data Augmentation and Synthesis" (with Tobias Holtdirk) New Directions: Bridging Natural Language Processing (NLP) and Survey Research at SurvAI-Day. October 2024
 
@@ -193,7 +193,7 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 - "SURV748: Step by Step in Survey Weighting." International Program in Survey and Data Science. Spring 2021.
 
 
-## Seminars (Undergraduate level)
+### Seminars (Undergraduate level)
 
 - "SURV699M: Review of Statistical Concepts." International Program in Survey and Data Science. Summer 2024.
 
@@ -215,7 +215,7 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 
 - "Introduction to Data Collection."  University of Mannheim. Winter 2017: 2 SWS.
 
-## Lecture (Undergraduate level)
+### Lecture (Undergraduate level)
 
 - "Statistics I for Social Scientists." University of Munich. Winter 2025: 4 SWS. 
 
@@ -233,14 +233,14 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 
 - "Statistics I for Social Scientists." University of Munich. Winter 2021: 4 SWS. 
 
-## Teaching Assistant
+### Teaching Assistant
 
 - "SURV699: Introduction to Official Statistics." (taught by Walter Radermacher) International Program in Survey and Data Science. 
 - "SURV726: Multiple Imputation." (taught by Jörg Drechsler) International Program in Survey and Data Science. 
 - "SURV725: Item Nonresponse and Imputation." (taught by Jörg Drechsler) International Program in Survey and Data Science. 
 - "Introduction to Empirical Research Methods in Political Science." (taught by Paul Thurner) Ludwig-Maximilians-Universität (LMU) München SS 2017.
 
-## Other
+### Other
 
 - "Meta-Analysis in Social Research and Survey Methodology." (together with Bernd Weiß and Jessica Wengrzik) GESIS Summer School 2018.
 
