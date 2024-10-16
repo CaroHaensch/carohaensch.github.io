@@ -71,7 +71,7 @@ Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate P
 
 [Ma, B. & Wang, X. & Hu, T. & **Haensch, A.-C.** & Hedderich, M. & Plank, B & Kreuter, F. (2024): The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models. Accepted at EMNLP Findings 2024.](https://arxiv.org/pdf/2406.11096)
 
-**Haensch, A.-C.** & Schunck, R. (2024). Multiple imputation for systematically missing partner variables in survey data. Accepted at Sociological Methodology.
+**Haensch, A.-C.** & Schunck, R. (2024). Multiple Imputation for Systematically Missing Partner Variables in Survey Data. Accepted at Sociological Methodology.
 
 [Drechsler, J. & **Haensch, A.-C.** (2024). 30 Years of Synthetic Data. Statistical Science.](https://www.e-publications.org/ims/submission/STS/user/submissionFile/57906?confirm=1907e523)
 
@@ -79,7 +79,7 @@ Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate P
 
 [Weiß, Bernd, Sonja Schulz, Lisa Schmid, Sebastian Sterl, **Anna-Carolina Haensch**. Harmonizing and Synthesizing Partnership Histories from Different German Survey Infrastructures. Chapter 14. In: (Eds. Irina Tomescu-Dubrow, Christof Wolf, Kazimierz M. Slomczynski, J. Craig Jenkins).](https://www.wiley-vch.de/de?option=com_eshop&view=product&isbn=9781119712176&title=Survey%20Data%20Harmonization%20in%20the%20Social%20Sciences) 
 
-[**Anna-Carolina Haensch**, Jonathan Bartlett, Bernd Weiß. Multiple imputation of partially observed covariates in  discrete-time survival analysis. In: Sociological Methods & Research.](https://journals.sagepub.com/doi/10.1177/00491241221140147)
+[**Anna-Carolina Haensch**, Jonathan Bartlett, Bernd Weiß. Multiple imputation of partially observed covariates in  discrete-time survival analysis. In: Sociological Methods & Research. Vol 53, Issue 4.](https://journals.sagepub.com/doi/10.1177/00491241221140147)
 
 [**Haensch, Anna-Carolina**, Bernd Weiß, Patricia Steins, Priscilla Chyrva, Katja Bitz. Forthcoming 2022. The semi-automatic categorization of open-ended questions on survey motivation and its reuse for attrition analysis. In:  Frontiers in Sociology (Big Data and Machine Learning in Sociology).](https://www.frontiersin.org/articles/10.3389/fdata.2022.880554/full)
 
@@ -110,7 +110,9 @@ Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate P
 
 ## Surveys and Data
 
-[Pandemic Recovery Survey.](https://search.gesis.org/research_data/SDN-10.7802-2631)
+[*Haensch, Anna-Carolina*, Kreuter, Frauke, La Motte-Kerr, W., Li, Yao, Stewart, Kathleen, Weber, Wiebke, Zins, Stefan, Castro, Emma, Deen, Amanda, Ewald, Louisa M., Gakidou, Emmanuela, Gillespie, Catherine W., Huntely, Bethany M., Tracy, Alison, Mokdad, Ali H., Bellettiere, John, Farag, Tamer H., Lee, Kristina, & Palani, Sid (2024). Pandemic Recovery Survey. GESIS, Köln. Datenfile Version 1.0.0.](https://search.gesis.org/research_data/SDN-10.7802-2631)
+
+[CTIS UMD team at UMD and Facebook. The University of Maryland Social Data Science Center Global COVID-19 Trends and Impact Survey in partnership with Facebook.](https://covidmap.umd.edu/)
 
 
 
