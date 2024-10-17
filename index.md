@@ -21,7 +21,7 @@ Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate P
 
 [von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections. Under Review.](https://arxiv.org/abs/2409.09045)
 
-[Ewald, Louisa M. and Bellettiere, John and Farag, Tamer H. and Lee, Kristina and Palani, Sidhartha and Castro, Emma and Deen, Amanda and Gillespie, Catherine W. and Huntley, Bethany M. and Tracy, Alison and **Haensch, Anna-Carolina** and Kreuter, Frauke and Weber, Wiebke and Zins, Stefan and La Motte-Kerr, Wichada and Li, Yao and Stewart, Kathleen and Gakidou, Emmanuela and Mokdad, Ali H., Insights on Pandemic Recovery: A Comprehensive Analysis from a 21-Country Online Survey.](https://ssrn.com/abstract=4840182 or http://dx.doi.org/10.2139/ssrn.4840182)
+[Ewald, Louisa M. and Bellettiere, John and Farag, Tamer H. and Lee, Kristina and Palani, Sidhartha and Castro, Emma and Deen, Amanda and Gillespie, Catherine W. and Huntley, Bethany M. and Tracy, Alison and **Haensch, Anna-Carolina** and Kreuter, Frauke and Weber, Wiebke and Zins, Stefan and La Motte-Kerr, Wichada and Li, Yao and Stewart, Kathleen and Gakidou, Emmanuela and Mokdad, Ali H., Insights on Pandemic Recovery: A Comprehensive Analysis from a 21-Country Online Survey.](http://dx.doi.org/10.2139/ssrn.4840182)
 
 ### Published in journals (Statistics and CSS) or conference proceedings (NLP)
 
