@@ -5,7 +5,7 @@ layout: default
 [LinkedIn](https://de.linkedin.com/in/anna-carolina-haensch-626b1b16a) |
 [University of Munich](https://www.stat.lmu.de/soda/en/team/contact-page/anna-carolina-haensch-10689cb3.html) 
 
-Welcome! I am passionate about research on missing data, synthetic data and big data in the social sciences. As my work spans Statistics, Computational Social Science, and NLP, I publish in both traditional statistics and methods journals, as well as in NLP conference proceedings. I also enjoy teaching (a lot) and programming (mostly in R and Python). If you have any questions, please feel free to contact me! 
+Welcome! I am passionate about research on missing data, synthetic data, and big data in the social sciences. My work spans Statistics, Computational Social Science, and NLP, and I publish in traditional statistics and methods journals and NLP conference proceedings. I also enjoy teaching (a lot) and programming (mostly in R and Python). If you have any questions, please feel free to contact me! 
 
 # Curriculum vitae
 
@@ -13,7 +13,9 @@ Welcome! I am passionate about research on missing data, synthetic data and big 
 
 ## Publications
 
-### Current working papers and projects
+### Current working papers and book projects
+
+**Kohler, U., Kreuter, F., & **Haensch, A.-C.**. Data Analysis Using Stata. In preparation at Stata Press.
 
 [von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion. Under review.](https://doi.org/10.31235/osf.io/8je9g)
 
@@ -21,7 +23,10 @@ Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate P
 
 [von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections. Under Review.](https://arxiv.org/abs/2409.09045)
 
-[Ewald, Louisa M. and Bellettiere, John and Farag, Tamer H. and Lee, Kristina and Palani, Sidhartha and Castro, Emma and Deen, Amanda and Gillespie, Catherine W. and Huntley, Bethany M. and Tracy, Alison and **Haensch, Anna-Carolina** and Kreuter, Frauke and Weber, Wiebke and Zins, Stefan and La Motte-Kerr, Wichada and Li, Yao and Stewart, Kathleen and Gakidou, Emmanuela and Mokdad, Ali H., Insights on Pandemic Recovery: A Comprehensive Analysis from a 21-Country Online Survey.](http://dx.doi.org/10.2139/ssrn.4840182)
+[Ewald, L. M., Bellettiere, J., Farag, T. H., Lee, K., Palani, S., Castro, E., Deen, A., Gillespie, C. W., Huntley, B. M., Tracy, A., **Haensch, A.-C.**, Kreuter, F., Weber, W., Zins, S., La Motte-Kerr, W., Li, Y., Stewart, K., Gakidou, E., & Mokdad, A. H. (2024). Insights on Pandemic Recovery: A Comprehensive Analysis from a 21-Country Online Survey. Under Review.](http://dx.doi.org/10.2139/ssrn.4840182)
+
+Sommer, F., Schade, R., Prokosch, D., Coelho, I. B., **Haensch, A.-C.**, & Kreuter, F. (2024). Survey on the Effectiveness of the Rent Brake in Munich. Submitted to arXiv.
+
 
 ### Published in journals (Statistics and CSS) or conference proceedings (NLP)
 
@@ -64,7 +69,7 @@ Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate P
 
 [CTIS. R based Global COVID-19 Trends and Impact Survey Microdata and Opendata API Interface (with Yue Xiong).](https://github.com/CaroHaensch/CTIS) 
 
-### Survey Data Cpllection and Data Products
+### Survey Data Collection and Data Products
 
 [**Haensch, Anna-Carolina**, Kreuter, Frauke, La Motte-Kerr, W., Li, Yao, Stewart, Kathleen, Weber, Wiebke, Zins, Stefan, Castro, Emma, Deen, Amanda, Ewald, Louisa M., Gakidou, Emmanuela, Gillespie, Catherine W., Huntely, Bethany M., Tracy, Alison, Mokdad, Ali H., Bellettiere, John, Farag, Tamer H., Lee, Kristina, & Palani, Sid (2024). Pandemic Recovery Survey. GESIS, Köln. Datenfile Version 1.0.0.](https://search.gesis.org/research_data/SDN-10.7802-2631)
 
