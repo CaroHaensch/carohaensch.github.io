@@ -17,8 +17,6 @@ Welcome! I am passionate about research on missing data, synthetic data, and big
 
 **Kohler, U., Kreuter, F., & **Haensch, A.-C.**. Data Analysis Using Stata. In preparation at Stata Press.
 
-**Haensch, A.-C.**, Feder, B., Lane, J., Tombari, A., & Kreuter, F. Data Literacy and Evidence Building. In preparation at Leanpub.
-
 [von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion. Under review.](https://doi.org/10.31235/osf.io/8je9g)
 
 Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate Partner Violence Against Women with Children in Mexico - Insights from Model-Based Boosting. Under Review.
@@ -30,7 +28,9 @@ Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate P
 Sommer, F., Schade, R., Prokosch, D., Coelho, I. B., **Haensch, A.-C.**, & Kreuter, F. (2024). Survey on the Effectiveness of the Rent Brake in Munich. Submitted to arXiv.
 
 
-### Published in journals (Statistics and CSS) or conference proceedings (NLP)
+### Published as books, in journals (Statistics and CSS) or conference proceedings (NLP)
+
+**Haensch, A.-C.**, Feder, B., Lane, J., Tombari, A., & Kreuter, F. (2024): Data Literacy and Evidence Building. Leanpub. [leanpub.com/dlev](https://leanpub.com/dlev)
 
 [Ma, B. & Wang, X. & Hu, T. & **Haensch, A.-C.** & Hedderich, M. & Plank, B & Kreuter, F. (2024): The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models. Accepted at EMNLP Findings 2024.](https://arxiv.org/pdf/2406.11096)
 
