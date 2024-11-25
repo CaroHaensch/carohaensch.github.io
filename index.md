@@ -27,14 +27,14 @@ Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate P
 
 Sommer, F., Schade, R., Prokosch, D., Coelho, I. B., **Haensch, A.-C.**, & Kreuter, F. (2024). Survey on the Effectiveness of the Rent Brake in Munich. Submitted to arXiv.
 
+**Haensch, A.-C.** & Schunck, R. (2024). Multiple Imputation for Systematically Missing Partner Variables in Survey Data. In press at Sociological Methodology.
+
 
 ### Published as books, in journals (Statistics and CSS) or conference proceedings (NLP)
 
 **Haensch, A.-C.**, Feder, B., Lane, J., Tombari, A., & Kreuter, F. (2024): Data Literacy and Evidence Building. Leanpub. [leanpub.com/dlev](https://leanpub.com/dlev)
 
 [Ma, B. & Wang, X. & Hu, T. & **Haensch, A.-C.** & Hedderich, M. & Plank, B & Kreuter, F. (2024): The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models. Accepted at EMNLP Findings 2024.](https://arxiv.org/pdf/2406.11096)
-
-**Haensch, A.-C.** & Schunck, R. (2024). Multiple Imputation for Systematically Missing Partner Variables in Survey Data. Accepted at Sociological Methodology.
 
 [Drechsler, J. & **Haensch, A.-C.** (2024). 30 Years of Synthetic Data. Statistical Science.](https://www.e-publications.org/ims/submission/STS/user/submissionFile/57906?confirm=1907e523)
 
