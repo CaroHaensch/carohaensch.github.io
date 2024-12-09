@@ -133,6 +133,8 @@ Sommer, F., Schade, R., Prokosch, D., Coelho, I. B., **Haensch, A.-C.**, & Kreut
 
 ### Invited talks
 
+BBAW Vorlesung der Technikwissenschaftliche Klasse 2024 - 28.11.2024 "Vertrauenswürdige KI: Warum ist das wichtig und worauf kommt es an?" (zusammen mit Tobias Schaeffter)
+
 CPSS @ KONVENS 2024 - 13.09.2024 "LLMs in Political and Social Science Research" 
 
 DZHW S3 Meeting - 12.06.2024 “Assessing bias in LLM-generated synthetic datasets: examining LLM personas in German and European elections.”
