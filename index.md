@@ -25,14 +25,16 @@ Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate P
 
 [Ewald, L. M., Bellettiere, J., Farag, T. H., Lee, K., Palani, S., Castro, E., Deen, A., Gillespie, C. W., Huntley, B. M., Tracy, A., **Haensch, A.-C.**, Kreuter, F., Weber, W., Zins, S., La Motte-Kerr, W., Li, Y., Stewart, K., Gakidou, E., & Mokdad, A. H. (2024). Insights on Pandemic Recovery: A Comprehensive Analysis from a 21-Country Online Survey. Under Review.](http://dx.doi.org/10.2139/ssrn.4840182)
 
-Sommer, F., Schade, R., Prokosch, D., Coelho, I. B., **Haensch, A.-C.**, & Kreuter, F. (2024). Survey on the Effectiveness of the Rent Brake in Munich. Submitted to arXiv.
+[Sommer, F., Schade, R., Prokosch, D., Coelho, I. B., **Haensch, A.-C.**, & Kreuter, F. (2024). Survey on the Effectiveness of the Rent Brake in Munich.](https://osf.io/preprints/socarxiv/439yr)
 
-**Haensch, A.-C.** & Schunck, R. (2024). Multiple Imputation for Systematically Missing Partner Variables in Survey Data. In press at Sociological Methodology.
+
 
 
 ### Published as books, in journals (Statistics and CSS) or conference proceedings (NLP)
 
-**Haensch, A.-C.**, Feder, B., Lane, J., Tombari, A., & Kreuter, F. (2024): Data Literacy and Evidence Building. Leanpub. [leanpub.com/dlev](https://leanpub.com/dlev)
+[**Haensch, A.-C.** & Schunck, R. (2024). Multiple Imputation for Systematically Missing Partner Variables in Survey Data. Sociological Methodology.](https://journals.sagepub.com/doi/10.1177/00811750241299816) 
+
+[**Haensch, A.-C.**, Feder, B., Lane, J., Tombari, A., & Kreuter, F. (2024): Data Literacy and Evidence Building. Leanpub.](https://leanpub.com/dlev)
 
 [Ma, B. & Wang, X. & Hu, T. & **Haensch, A.-C.** & Hedderich, M. & Plank, B & Kreuter, F. (2024): The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models. Accepted at EMNLP Findings 2024.](https://arxiv.org/pdf/2406.11096)
 
