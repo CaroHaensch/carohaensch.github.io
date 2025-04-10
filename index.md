@@ -15,7 +15,7 @@ Welcome! I am passionate about research on missing data, synthetic data, and big
 
 ### Current working papers and book projects
 
-**Kohler, U., Kreuter, F., & **Haensch, A.-C.**. Data Analysis Using Stata. In preparation at Stata Press.
+Kohler, U., Kreuter, F., & **Haensch, A.-C.**. Data Analysis Using Stata. In preparation at Stata Press.
 
 Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate Partner Violence Against Women with Children in Mexico - Insights from Model-Based Boosting. Under Review.
 
