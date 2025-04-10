@@ -17,13 +17,9 @@ Welcome! I am passionate about research on missing data, synthetic data, and big
 
 **Kohler, U., Kreuter, F., & **Haensch, A.-C.**. Data Analysis Using Stata. In preparation at Stata Press.
 
-[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion. Under review.](https://doi.org/10.31235/osf.io/8je9g)
-
 Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate Partner Violence Against Women with Children in Mexico - Insights from Model-Based Boosting. Under Review.
 
 [von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections. Under Review.](https://arxiv.org/abs/2409.09045)
-
-[Ewald, L. M., Bellettiere, J., Farag, T. H., Lee, K., Palani, S., Castro, E., Deen, A., Gillespie, C. W., Huntley, B. M., Tracy, A., **Haensch, A.-C.**, Kreuter, F., Weber, W., Zins, S., La Motte-Kerr, W., Li, Y., Stewart, K., Gakidou, E., & Mokdad, A. H. (2024). Insights on Pandemic Recovery: A Comprehensive Analysis from a 21-Country Online Survey. Under Review.](http://dx.doi.org/10.2139/ssrn.4840182)
 
 [Sommer, F., Schade, R., Prokosch, D., Coelho, I. B., **Haensch, A.-C.**, & Kreuter, F. (2024). Survey on the Effectiveness of the Rent Brake in Munich.](https://osf.io/preprints/socarxiv/439yr)
 
@@ -31,6 +27,14 @@ Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate P
 
 
 ### Published as books, in journals (Statistics and CSS) or conference proceedings (NLP)
+
+[Ewald, L. M., Bellettiere, J., Farag, T. H., Lee, K., Palani, S., Castro, E., Deen, A., Gillespie, C. W., Huntley, B. M., Tracy, A., **Haensch, A.-C.**, Kreuter, F., Weber, W., Zins, S., La Motte-Kerr, W., Li, Y., Stewart, K., Gakidou, E., & Mokdad, A. H. (2025). Insights on Pandemic Recovery: A Comprehensive Analysis from a 21-Country Online Survey. International Journal of Public Health.](https://doi.org/10.3389/ijph.2025.1607884)
+
+[Ippisch, N., **Haensch, A.**, Simson, J., Beck, J., Herklotz, M. & Schierholz, M. (2025). Cracking the Code: Evaluating Zero-Shot Prompting Methods for Providing Programming Feedback. ICLR Workshop on Human-AI Coevolution.](https://openreview.net/forum?id=uZBV1Ghw6R)
+
+[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2025). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion. Accepted at Social Science Computer Review.](https://doi.org/10.31235/osf.io/8je9g)
+
+[Sommer, F., Schade, R., Prokosch, D., Bertolini Coelho, I, **Haensch, A.** (2025). Die (Un)wirksamkeit der Mietpreisbremse: die Ergebnisse der Mieten-Umfrage München. GuG - Grundstücksmarkt und Grundstückswert 2025 (2).](https://shop.wolterskluwer-online.de/rechtsgebiete/zivilrecht-zivilprozessrecht/grundstuecks-immobilienrecht/21800502-gug-grundstuecksmarkt-und-grundstueckswert-heft-2-2025.html)
 
 [**Haensch, A.-C.** & Schunck, R. (2024). Multiple Imputation for Systematically Missing Partner Variables in Survey Data. Sociological Methodology.](https://journals.sagepub.com/doi/10.1177/00811750241299816) 
 
