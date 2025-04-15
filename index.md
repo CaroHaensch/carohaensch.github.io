@@ -19,11 +19,13 @@ Kohler, U., Kreuter, F., & **Haensch, A.-C.**. Data Analysis Using Stata. In pre
 
 Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate Partner Violence Against Women with Children in Mexico - Insights from Model-Based Boosting. Under Review.
 
+Kononykhina, O., **Haensch, A.**  & Kreuter, F. Mind the Gap: Gender-based Differences in Occupational Embeddings. Under Review.
+
+Fuchs, A., Weinzierl, C., Notenius, E., Ma, B. & **Haensch, A.**.  Sexism Across US Elections 2020 and 2024 in X. Under Review.
+
+Reißinger, L., Li, Y, **Haensch, A.**, Sarna, N.. Safer Prompts: Reducing IP Risk in Visual Generative AI. Under Review.
+
 [von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections. Under Review.](https://arxiv.org/abs/2409.09045)
-
-[Sommer, F., Schade, R., Prokosch, D., Coelho, I. B., **Haensch, A.-C.**, & Kreuter, F. (2024). Survey on the Effectiveness of the Rent Brake in Munich.](https://osf.io/preprints/socarxiv/439yr)
-
-
 
 
 ### Published as books, in journals (Statistics and CSS) or conference proceedings (NLP)
