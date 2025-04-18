@@ -17,6 +17,8 @@ Welcome! I am passionate about research on missing data, synthetic data, and big
 
 Kohler, U., Kreuter, F., & **Haensch, A.-C.**. Data Analysis Using Stata. In preparation at Stata Press.
 
+ [**Haensch, A.-C.**. "It Listens Better Than My Therapist": Exploring Social Media Discourse on LLMs as Mental Health Tool. Arxiv Preprint.](https://arxiv.org/abs/2504.12337)
+
 Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate Partner Violence Against Women with Children in Mexico - Insights from Model-Based Boosting. Under Review.
 
 Kononykhina, O., **Haensch, A.**  & Kreuter, F. Mind the Gap: Gender-based Differences in Occupational Embeddings. Under Review.
