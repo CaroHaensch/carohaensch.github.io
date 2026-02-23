@@ -15,6 +15,9 @@ Welcome! I am passionate about research on missing data, synthetic data, and big
 
 ### Working Papers/Under Review
 
+<details>
+<summary>Show list</summary>
+
 Clinton, J. D., Barari, S., Busby, E., Buskirk, T. D., Duch, R., Haensch, A., Hillygus, D. S., Kennedy, C., Munger, K., Rivers, D., Westwood, S. (APSA Task Force on AI and Polling). Public Opinion in the Age of AI.
 
 Fuchs, A., Haensch, A., & Weber, W. AI for Survey Design: Generating and Evaluating Survey Questions with Large Language Models.
@@ -23,6 +26,7 @@ Reißinger, L., Li, Y., Haensch, A., & Sarna, N. Safer Prompts: Reducing IP Risk
 
 Strasser-Ceballos, C., & Haensch, A. Determinants of Psychological Intimate Partner Violence Against Women with Children in Mexico - Insights from Model Based Boosting.
 
+</details>
 
 ### Peer-reviewed Journal articles
 
