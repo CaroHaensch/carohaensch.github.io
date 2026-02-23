@@ -15,8 +15,7 @@ Welcome! I am passionate about research on missing data, synthetic data, and big
 
 ### Working Papers/Under Review
 
-<details>
-<summary>Show list</summary>
+
 
 Clinton, J. D., Barari, S., Busby, E., Buskirk, T. D., Duch, R., Haensch, A., Hillygus, D. S., Kennedy, C., Munger, K., Rivers, D., Westwood, S. (APSA Task Force on AI and Polling). Public Opinion in the Age of AI.
 
@@ -26,7 +25,6 @@ Reißinger, L., Li, Y., Haensch, A., & Sarna, N. Safer Prompts: Reducing IP Risk
 
 Strasser-Ceballos, C., & Haensch, A. Determinants of Psychological Intimate Partner Violence Against Women with Children in Mexico - Insights from Model Based Boosting.
 
-</details>
 
 ### Peer-reviewed Journal articles
 
@@ -35,6 +33,9 @@ Strasser-Ceballos, C., & Haensch, A. Determinants of Psychological Intimate Part
 [Herklotz, M., & **Haensch, A.** (2025). Exploring Computer Literacy Variance: Insights from an Introductory Statistical Programming Class. Journal of Statistics and Data Science Education, 1–18.](https://doi.org/10.1080/26939169.2025.2584772)
 
 [von der Heyde, L., **Haensch, A.**, & Wenz, A. (2025). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion. Social Science Computer Review.](https://doi.org/10.1177/08944393251337014)
+
+<details>
+<summary>Show more</summary>
 
 [Ewald, L. M., Bellettiere, J., Farag, T. H., Lee, K., Palani, S., Castro, E., Deen, A., Gillespie, C. W., Huntley, B. M., Tracy, A., **Haensch, A.**, Kreuter, F., Weber, W., Zins, S., La Motte-Kerr, W., Li, Y., Stewart, K., Gakidou, E., & Mokdad, A. H. (2025). Insights on Pandemic Recovery: A Comprehensive Analysis from a 21-Country Online Survey. International Journal of Public Health.](https://doi.org/10.3389/ijph.2025.1607884)
 
@@ -60,7 +61,8 @@ Strasser-Ceballos, C., & Haensch, A. Determinants of Psychological Intimate Part
 
 [**Haensch, Anna-Carolina**. 2016. "Armutsgefährdung in Berlin und Brandenburg 2014: Eine Analyse nach Lebensformen und Risikolagen." Zeitschrift für amtliche Statistik Berlin Brandenburg 10 (1): 36-41.](https://www.statistik-berlin-brandenburg.de/produkte/zeitschrift/2016/HZ_201601.pdf)
 
-
+</details>
+  
 ### Conference Papers
 
 Ma, B., Cao, Y., Sen, I., **Haensch, A.**, Kreuter, F., Plank, B., & Hershcovich, D. (2026). Too Open for Opinion? Embracing Open-Endedness in Large Language Models for Social Simulation. Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics.
@@ -68,6 +70,9 @@ Ma, B., Cao, Y., Sen, I., **Haensch, A.**, Kreuter, F., Plank, B., & Hershcovich
 [Ma, B., Yoztyurk, B., **Haensch, A.**, Wang, X., Herklotz, M., Kreuter, F., Plank, B., Aßenmacher, M. (2025). Algorithmic Fidelity of Large Language Models in Generating Synthetic German Public Opinions: A Case Study. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 1785–1809.](https://aclanthology.org/2025.acl-long.90/)
 
 [Fuchs, A., Noltenius, E., Weinzierl, C., Ma, B., & **Haensch, A.** (2025): Measuring Sexism in US Elections: A Comparative Analysis of X Discourse From 2020 to 2024. Proceedings of the 6th Workshop on Computational Approaches to Discourse, Context and Document Level Inferences (CODI 2025).](https://aclanthology.org/2025.codi-1.12/)
+
+<details>
+<summary>Show more</summary>
 
 [Kononykhina, O., **Haensch, A.**, & Kreuter, F. (2025). Mind the Gap: Gender-based Differences in Occupational Embeddings. Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP).](https://aclanthology.org/2025.gebnlp-1.7/)
 
@@ -79,16 +84,20 @@ Ma, B., Cao, Y., Sen, I., **Haensch, A.**, Kreuter, F., Plank, B., & Hershcovich
 
 [**Haensch, A.**, Ball, S., Herklotz, M., & Kreuter, F. (2024). Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data. IEEE BigSurv 2023 Conference Proceedings.](https://www.proceedings.com/74084.html)
 
+</details>
 
-### Books
+### Books and misc
 
+#### Books
 Kohler, U., Kreuter, F., & Haensch, A.-C. Data Analysis Using Stata. In preparation at Stata Press.
 
+<details>
+<summary>Show more</summary>
 [**Haensch, A.**, Feder, B., Lane, J., Tombari, A., & Kreuter, F. (2024): Data Literacy and Evidence Building. Leanpub.](https://leanpub.com/dlev)
 
 [**Haensch, Anna-Carolina**. 2021. Dealing with various flavors of missing data in ex-post survey harmonization and beyond. PhD Dissertation. University of Mannheim.](https://madoc.bib.uni-mannheim.de/59940/) 
 
-### Misc
+#### Misc
 
 [**Haensch, Anna-Carolina**,  Drechsler, Jörg and Sarah Bernhard. 2020. TippingSens: An R Shiny Application to Facilitate Sensitivity Analysis for Causal Inference Under Confounding. (IAB-Discussion Paper, 29/2020), Nürnberg.](https://www.iab.de/183/section.aspx/Publikation/K200925EAL)
 
@@ -99,11 +108,11 @@ Kohler, U., Kreuter, F., & Haensch, A.-C. Data Analysis Using Stata. In preparat
 [**Haensch, Anna-Carolina**. 2014. Die Effekte von Koalitionspräferenzen und -erwartungen auf Wahlentscheidungen in Verhätniswahlsystemen. Münchener Beiträge zur Politikwissenschaft.](https://epub.ub.uni-muenchen.de/21845/)
 
 
-### R package
+#### R package
 
 [CTIS. R based Global COVID-19 Trends and Impact Survey Microdata and Opendata API Interface (with Yue Xiong).](https://github.com/CaroHaensch/CTIS) 
 
-### Survey Data Collection and Data Products
+#### Survey Data Collection and Data Products
 
 [**Haensch, Anna-Carolina**, Kreuter, Frauke, La Motte-Kerr, W., Li, Yao, Stewart, Kathleen, Weber, Wiebke, Zins, Stefan, Castro, Emma, Deen, Amanda, Ewald, Louisa M., Gakidou, Emmanuela, Gillespie, Catherine W., Huntely, Bethany M., Tracy, Alison, Mokdad, Ali H., Bellettiere, John, Farag, Tamer H., Lee, Kristina, & Palani, Sid (2024). Pandemic Recovery Survey. GESIS, Köln. Datenfile Version 1.0.0.](https://search.gesis.org/research_data/SDN-10.7802-2631)
 
@@ -111,6 +120,7 @@ Kohler, U., Kreuter, F., & Haensch, A.-C. Data Analysis Using Stata. In preparat
 
 [CTIS UMD team at UMD and Facebook (2022). The University of Maryland Social Data Science Center Global COVID-19 Trends and Impact Survey in partnership with Facebook.](https://covidmap.umd.edu/)
 
+</details>
 
 ### Education
 
@@ -134,13 +144,16 @@ Kohler, U., Kreuter, F., & Haensch, A.-C. Data Analysis Using Stata. In preparat
 *New York University* <br>
 *Wagner School of Public Policy*  <br>
 
+**Assistant research professor** Since 08/2021 <br>
+*University of Maryland* <br>
+*International Program in Survey and Data Science*  <br>
+
+<details>
+<summary>Show more</summary>
+
 **Postdoctoral researcher** 04/2021-12/2023 <br>
 *University of Munich* <br>
 *Chair of Statistics and Data Science in Social Sciences and the Humanities*  <br>
-
-**Assistant professor** Since 08/2021 <br>
-*University of Maryland* <br>
-*International Program in Survey and Data Science*  <br>
 
 **Postdoctoral researcher** 10/2021 -12/2021 <br>
 *Institute for Employment Research* <br>
@@ -159,13 +172,20 @@ Kohler, U., Kreuter, F., & Haensch, A.-C. Data Analysis Using Stata. In preparat
 *Leibniz-Institute for Educational Trajectories (LIfBi e.V.)* <br>
 *Statistical Office for the Regions Berlin and Brandenburg:* Mikrozensus.<be
 
-
+</details>
 
 ## Invited talks
 
 ### Invited talks
 
+Indian Statistical Institute Platinum Jubilee Conference - 25.09.2025 "APPLICATIONS OF MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE IN SAMPLE SURVEYS"
+
+Computational Social Science: AI and Society – Exploring Inequality in the Digital Age. University of Mannheim 15.05.2025. "TikTok Data for Social Science Research: Access, Limitations, and Applications." 
+
 BBAW Vorlesung der Technikwissenschaftliche Klasse 2024 - 28.11.2024 "Vertrauenswürdige KI: Warum ist das wichtig und worauf kommt es an?" (zusammen mit Tobias Schaeffter)
+
+<details>
+<summary>Show more</summary>
 
 CPSS @ KONVENS 2024 - 13.09.2024 "LLMs in Political and Social Science Research" 
 
@@ -179,11 +199,18 @@ B-IT Lecture Series - 07.12.23 "Can large language models predict how people vot
 
 NFDI Series Show & Tell - 11.11.22 – Social Media-Daten in der Forschungspraxis II - Things to know when working with reddit data
 
+</details>
+
 ### Selected conference presentations
+
+JSM 2025 - TeLLMe Why (AIn't Nothing But a Survey)? Using Large Language Models for Coding German Open-Ended Survey Responses on Survey Motivation
 
 JSM 2024 - Invited Panel Session: Future of Statistics and Data Science in the Era of ChatGPT and LLMs.
 
 IC2S2 2024 - Oral presentation "Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion."
+
+<details>
+<summary>Show more</summary>
 
 AAPOR 2023 (presented by Leah von der Heyde) - Oral presentation "Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion."
 
@@ -201,17 +228,25 @@ BigSurv 2020 - Oral presentation "Using supervised classification for categorizi
 
 JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental Individual Person Data with Heterogeneous Weighting Schemes"
 
+</details>
 
 ## Teaching
 
 ### Supervised Theses
 
-- (currently ongoing) 3 PhD Theses on Statistical Education, application of ML methods in Social Sciences, and synthetic data generation with LLMs.
-- ~ 6 x Master Thesis (Statistics, University of Munich). Since 2022. Topics mostly related to the application of LLMs in synthetic data generation, missing data and application of ML methods in Social Sciences.
-- ~ 15 x Bachelor Thesis (Statistics, University of Munich). Since 2022. Topics related to  synthetic data (both traditional methods and LLMs), Multiple Imputation and the Covid-19 Trends and Impact Surveys. 
+- 5 PhD Theses on Statistical Education, application of ML methods in Social Sciences, and synthetic data generation with LLMs.
+- 15 x Master Thesis (Statistics, University of Munich). Since 2022. Topics mostly related to the application of LLMs in synthetic data generation, missing data and application of ML methods in Social Sciences.
+- 15 x Bachelor Thesis (Statistics, University of Munich). Since 2022. Topics related to  synthetic data (both traditional methods and LLMs), Multiple Imputation and the Covid-19 Trends and Impact Surveys. 
 - 3 x Bachelor Thesis (Sociology, University of Mannheim). 2021. All topics related to supervised classification of open-ended questions in surveys.
 
 ### Seminars (Master/PhD Level)
+
+- "SURV748: Step by Step in Survey Weighting." University of Maryland. Spring 2026.
+
+- "Fine Tuning LLMs for Data Augmentation and Synthesis" (with Tobias Holtdirk) AAPOR Pre-Conference. May 2025.
+
+<details>
+<summary>Show more</summary>
 
 - "Fine Tuning LLMs for Data Augmentation and Synthesis" (with Tobias Holtdirk) New Directions: Bridging Natural Language Processing (NLP) and Survey Research at SurvAI-Day. October 2024
 
@@ -235,8 +270,14 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 
 - "SURV748: Step by Step in Survey Weighting." International Program in Survey and Data Science. Spring 2021.
 
+</details>
 
 ### Seminars (Undergraduate level)
+
+- "SURV699M: Review of Statistical Concepts." International Program in Survey and Data Science. Summer 2025.
+
+<details>
+<summary>Show more</summary>
 
 - "SURV699M: Review of Statistical Concepts." International Program in Survey and Data Science. Summer 2024.
 
@@ -258,11 +299,18 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 
 - "Introduction to Data Collection."  University of Mannheim. Winter 2017: 2 SWS.
 
+</details>
+
 ### Lecture (Undergraduate level)
 
-- "Statistics I for Social Scientists." University of Munich. Winter 2025: 4 SWS. 
+- "Statistics I for Social Scientists." University of Munich. Winter 2026: 4 SWS.
+
+- "Statistics I for Social Scientists." University of Munich. Winter 2025: 4 SWS.
 
 - "Statistics II for Social Scientists." University of Munich. Summer 2024: 4 SWS.
+  
+<details>
+<summary>Show more</summary>
 
 - "Statistics I for Social Scientists." University of Munich. Winter 2024: 4 SWS. 
 
@@ -274,18 +322,23 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 
 - "Statistics II for Social Scientists." University of Munich. Summer 2022: 4 SWS.
 
-- "Statistics I for Social Scientists." University of Munich. Winter 2021: 4 SWS. 
+- "Statistics I for Social Scientists." University of Munich. Winter 2021: 4 SWS.
 
-### Teaching Assistant
+</details>
+
+### Teaching Assistant 
+
+<details>
+<summary>Show more</summary>
+
 
 - "SURV699: Introduction to Official Statistics." (taught by Walter Radermacher) International Program in Survey and Data Science. 
 - "SURV726: Multiple Imputation." (taught by Jörg Drechsler) International Program in Survey and Data Science. 
 - "SURV725: Item Nonresponse and Imputation." (taught by Jörg Drechsler) International Program in Survey and Data Science. 
 - "Introduction to Empirical Research Methods in Political Science." (taught by Paul Thurner) Ludwig-Maximilians-Universität (LMU) München SS 2017.
-
-### Other
-
 - "Meta-Analysis in Social Research and Survey Methodology." (together with Bernd Weiß and Jessica Wengrzik) GESIS Summer School 2018.
+
+</details>
 
 # Mix
 
@@ -297,7 +350,9 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 - 2011-2017 Max-Weber-Programm (undergraduate and graduate stipend) 
 
 ## Stipends and Grants
-- 2024 -2025 ~ 20000 Euro Promotion of teaching for the project RAINER - R Assistant IN Error Resolution
+
+- 2024 -2025 ~ 30000 Euro, LMU Sustainability Grant for „Pilotstudie für den LMU Bodenindex" 
+- 2024 -2025 ~ 20000 Euro, LMU Teaching Innovation Grant for  RAINER - R Assistant IN Error Resolution
 - 2023 ~ 10000 Euro LMU-NYU Scholarship
 
 ## Board Membership
