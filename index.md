@@ -13,42 +13,32 @@ Welcome! I am passionate about research on missing data, synthetic data, and big
 
 ## Publications
 
-### Current working papers and book projects
+### Working Papers/Under Review
 
-Kohler, U., Kreuter, F., & **Haensch, A.-C.**. Data Analysis Using Stata. In preparation at Stata Press.
+Clinton, J. D., Barari, S., Busby, E., Buskirk, T. D., Duch, R., Haensch, A., Hillygus, D. S., Kennedy, C., Munger, K., Rivers, D., Westwood, S. (APSA Task Force on AI and Polling). Public Opinion in the Age of AI.
 
- [**Haensch, A.-C.**. "It Listens Better Than My Therapist": Exploring Social Media Discourse on LLMs as Mental Health Tool. Arxiv Preprint.](https://arxiv.org/abs/2504.12337)
+Fuchs, A., Haensch, A., & Weber, W. AI for Survey Design: Generating and Evaluating Survey Questions with Large Language Models.
 
-Strasser-Ceballos, C., **Haensch, A.**. Determinants of Psychological Intimate Partner Violence Against Women with Children in Mexico - Insights from Model-Based Boosting. Under Review.
+Reißinger, L., Li, Y., Haensch, A., & Sarna, N. Safer Prompts: Reducing IP Risk in Visual Generative AI.
 
-Kononykhina, O., **Haensch, A.**  & Kreuter, F. Mind the Gap: Gender-based Differences in Occupational Embeddings. Under Review.
-
-Fuchs, A., Weinzierl, C., Notenius, E., Ma, B. & **Haensch, A.**.  Sexism Across US Elections 2020 and 2024 in X. Under Review.
-
-Reißinger, L., Li, Y, **Haensch, A.**, Sarna, N.. Safer Prompts: Reducing IP Risk in Visual Generative AI. Under Review.
-
-[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2024). United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections. Under Review.](https://arxiv.org/abs/2409.09045)
+Strasser-Ceballos, C., & Haensch, A. Determinants of Psychological Intimate Partner Violence Against Women with Children in Mexico - Insights from Model Based Boosting.
 
 
-### Published as books, in journals (Statistics and CSS) or conference proceedings (NLP)
+### Peer-reviewed Journal articles
 
-[Ewald, L. M., Bellettiere, J., Farag, T. H., Lee, K., Palani, S., Castro, E., Deen, A., Gillespie, C. W., Huntley, B. M., Tracy, A., **Haensch, A.-C.**, Kreuter, F., Weber, W., Zins, S., La Motte-Kerr, W., Li, Y., Stewart, K., Gakidou, E., & Mokdad, A. H. (2025). Insights on Pandemic Recovery: A Comprehensive Analysis from a 21-Country Online Survey. International Journal of Public Health.](https://doi.org/10.3389/ijph.2025.1607884)
+[von der Heyde, L., **Haensch, A.**, & Weiß, B. (2025). Using Large Language Models for Coding German Open-Ended Survey Responses on Survey Motivation. Survey Research Methods 19(4), 355–370.](https://doi.org/10.18148/srm/2025.v19i4.8568)
 
-[Ippisch, N., **Haensch, A.**, Simson, J., Beck, J., Herklotz, M. & Schierholz, M. (2025). Cracking the Code: Evaluating Zero-Shot Prompting Methods for Providing Programming Feedback. ICLR Workshop on Human-AI Coevolution.](https://openreview.net/forum?id=uZBV1Ghw6R)
+[Herklotz, M., & **Haensch, A.** (2025). Exploring Computer Literacy Variance: Insights from an Introductory Statistical Programming Class. Journal of Statistics and Data Science Education, 1–18.](https://doi.org/10.1080/26939169.2025.2584772)
 
-[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2025). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion. Accepted at Social Science Computer Review.](https://doi.org/10.31235/osf.io/8je9g)
+[von der Heyde, L., **Haensch, A.**, & Wenz, A. (2025). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion. Social Science Computer Review.](https://doi.org/10.1177/08944393251337014)
+
+[Ewald, L. M., Bellettiere, J., Farag, T. H., Lee, K., Palani, S., Castro, E., Deen, A., Gillespie, C. W., Huntley, B. M., Tracy, A., **Haensch, A.**, Kreuter, F., Weber, W., Zins, S., La Motte-Kerr, W., Li, Y., Stewart, K., Gakidou, E., & Mokdad, A. H. (2025). Insights on Pandemic Recovery: A Comprehensive Analysis from a 21-Country Online Survey. International Journal of Public Health.](https://doi.org/10.3389/ijph.2025.1607884)
 
 [Sommer, F., Schade, R., Prokosch, D., Bertolini Coelho, I, **Haensch, A.** (2025). Die (Un)wirksamkeit der Mietpreisbremse: die Ergebnisse der Mieten-Umfrage München. GuG - Grundstücksmarkt und Grundstückswert 2025 (2).](https://shop.wolterskluwer-online.de/rechtsgebiete/zivilrecht-zivilprozessrecht/grundstuecks-immobilienrecht/21800502-gug-grundstuecksmarkt-und-grundstueckswert-heft-2-2025.html)
 
-[**Haensch, A.-C.** & Schunck, R. (2024). Multiple Imputation for Systematically Missing Partner Variables in Survey Data. Sociological Methodology.](https://journals.sagepub.com/doi/10.1177/00811750241299816) 
+[**Haensch, A.** & Schunck, R. (2024). Multiple Imputation for Systematically Missing Partner Variables in Survey Data. Sociological Methodology.](https://journals.sagepub.com/doi/10.1177/00811750241299816) 
 
-[**Haensch, A.-C.**, Feder, B., Lane, J., Tombari, A., & Kreuter, F. (2024): Data Literacy and Evidence Building. Leanpub.](https://leanpub.com/dlev)
-
-[Ma, B. & Wang, X. & Hu, T. & **Haensch, A.-C.** & Hedderich, M. & Plank, B & Kreuter, F. (2024): The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models. Accepted at EMNLP Findings 2024.](https://arxiv.org/pdf/2406.11096)
-
-[Drechsler, J. & **Haensch, A.-C.** (2024). 30 Years of Synthetic Data. Statistical Science.](https://www.e-publications.org/ims/submission/STS/user/submissionFile/57906?confirm=1907e523)
-
-[**Haensch, A.-C.**, Ball, S., Herklotz, M., & Kreuter, F. (2024). Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data. IEEE BigSurv 2023 Conference Proceedings.](https://www.proceedings.com/74084.html)
+[Drechsler, J. & **Haensch, A.** (2024). 30 Years of Synthetic Data. Statistical Science.](https://www.e-publications.org/ims/submission/STS/user/submissionFile/57906?confirm=1907e523)
 
 [Weiß, Bernd, Sonja Schulz, Lisa Schmid, Sebastian Sterl, **Anna-Carolina Haensch**. Harmonizing and Synthesizing Partnership Histories from Different German Survey Infrastructures. Chapter 14. In: (Eds. Irina Tomescu-Dubrow, Christof Wolf, Kazimierz M. Slomczynski, J. Craig Jenkins).](https://www.wiley-vch.de/de?option=com_eshop&view=product&isbn=9781119712176&title=Survey%20Data%20Harmonization%20in%20the%20Social%20Sciences) 
 
@@ -62,17 +52,45 @@ Reißinger, L., Li, Y, **Haensch, A.**, Sarna, N.. Safer Prompts: Reducing IP Ri
 
 [**Haensch, Anna-Carolina**; Herklotz, Markus; Keusch, Florian; Kreuter, Frauke. 2021. The international program in survey and data science (IPSDS): a modern study program for working professionals. In: Statistical Journal of the IAOS, Vol. 37, No. 3: pp. 921-933.](https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210833)
 
+[Kreitzscheck, Mathis, and **Anna-Carolina Haensch**. 2019. "Klopfet an, so wird euch aufgetan?: Teilnahmeverweigerung und Nonresponse Bias in der fünften Kirchenmitgliedschaftsuntersuchung." Praktische Theologie 54 (1): 43-51.](https://doi.org/10.14315/prth-2019-540110)
+
+[**Haensch, Anna-Carolina**. 2016. "Armutsgefährdung in Berlin und Brandenburg 2014: Eine Analyse nach Lebensformen und Risikolagen." Zeitschrift für amtliche Statistik Berlin Brandenburg 10 (1): 36-41.](https://www.statistik-berlin-brandenburg.de/produkte/zeitschrift/2016/HZ_201601.pdf)
+
+
+### Conference Papers
+
+Ma, B., Cao, Y., Sen, I., **Haensch, A.**, Kreuter, F., Plank, B., & Hershcovich, D. (2026). Too Open for Opinion? Embracing Open-Endedness in Large Language Models for Social Simulation. Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics.
+
+[Ma, B., Yoztyurk, B., **Haensch, A.**, Wang, X., Herklotz, M., Kreuter, F., Plank, B., Aßenmacher, M. (2025). Algorithmic Fidelity of Large Language Models in Generating Synthetic German Public Opinions: A Case Study. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 1785–1809.](https://aclanthology.org/2025.acl-long.90/)
+
+[Fuchs, A., Noltenius, E., Weinzierl, C., Ma, B., & **Haensch, A.** (2025): Measuring Sexism in US Elections: A Comparative Analysis of X Discourse From 2020 to 2024. Proceedings of the 6th Workshop on Computational Approaches to Discourse, Context and Document Level Inferences (CODI 2025).](https://aclanthology.org/2025.codi-1.12/)
+
+[Kononykhina, O., **Haensch, A.**, & Kreuter, F. (2025). Mind the Gap: Gender-based Differences in Occupational Embeddings. Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP).](https://aclanthology.org/2025.gebnlp-1.7/)
+
+[Ma, B., Huang, C. & **Haensch, A.** (2025). Can Large Language Models Advance Crosswalks? The Case of Danish Occupation Codes. Proceedings of the 2025 NAACL Conference, 392–399.](https://aclanthology.org/2025.naacl-srw.38/)
+
+[Ippisch, N., **Haensch, A.**, Simson, J., Beck, J., Herklotz, M. & Schierholz, M. (2025). Cracking the Code: Evaluating Zero-Shot Prompting Methods for Providing Programming Feedback. ICLR Workshop on Human-AI Coevolution.](https://openreview.net/forum?id=uZBV1Ghw6R)
+
+[Ma, B. & Wang, X. & Hu, T. & **Haensch, A.** & Hedderich, M. & Plank, B & Kreuter, F. (2024): The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models. Accepted at EMNLP Findings 2024.](https://arxiv.org/pdf/2406.11096)
+
+[**Haensch, A.**, Ball, S., Herklotz, M., & Kreuter, F. (2024). Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data. IEEE BigSurv 2023 Conference Proceedings.](https://www.proceedings.com/74084.html)
+
+
+### Books
+
+Kohler, U., Kreuter, F., & Haensch, A.-C. Data Analysis Using Stata. In preparation at Stata Press.
+
+[**Haensch, A.**, Feder, B., Lane, J., Tombari, A., & Kreuter, F. (2024): Data Literacy and Evidence Building. Leanpub.](https://leanpub.com/dlev)
+
 [**Haensch, Anna-Carolina**. 2021. Dealing with various flavors of missing data in ex-post survey harmonization and beyond. PhD Dissertation. University of Mannheim.](https://madoc.bib.uni-mannheim.de/59940/) 
+
+### Misc
 
 [**Haensch, Anna-Carolina**,  Drechsler, Jörg and Sarah Bernhard. 2020. TippingSens: An R Shiny Application to Facilitate Sensitivity Analysis for Causal Inference Under Confounding. (IAB-Discussion Paper, 29/2020), Nürnberg.](https://www.iab.de/183/section.aspx/Publikation/K200925EAL)
 
 [**Haensch, Anna-Carolina**, Corinna Stöckinger, and Doris Stingl. 2020. "Schluss mit Sterne gucken. Frequentistische Alternativen zum p-Wert." In: Bad Science: Die dunkle Seite der Statistik (Eds. Rebekka Kluge, Florian Meinfelder).](http://www.vahlen.de/productview.aspx?product=27606921&medium=print)
 
 [**Haensch, Anna-Carolina**, Sonja Schulz, Sebastian Sterl, and Bernd Weiß. 2019. The HaSpaD (Harmonizing and Synthesizing Partnership Histories from Different Research Data Infrastructures) Project. In: Harmonization Newsletter, Vol. 5, No. 1: 20-21.](https://www.asc.ohio-state.edu/dataharmonization/wp-content/uploads/2019/07/Harmonization-Newsletter-v5n1-Spring-Summer-FINAL-2019.pdf)
-
-[Kreitzscheck, Mathis, and **Anna-Carolina Haensch**. 2019. "Klopfet an, so wird euch aufgetan?: Teilnahmeverweigerung und Nonresponse Bias in der fünften Kirchenmitgliedschaftsuntersuchung." Praktische Theologie 54 (1): 43-51.](https://doi.org/10.14315/prth-2019-540110)
-
-[**Haensch, Anna-Carolina**. 2016. "Armutsgefährdung in Berlin und Brandenburg 2014: Eine Analyse nach Lebensformen und Risikolagen." Zeitschrift für amtliche Statistik Berlin Brandenburg 10 (1): 36-41.](https://www.statistik-berlin-brandenburg.de/produkte/zeitschrift/2016/HZ_201601.pdf)
 
 [**Haensch, Anna-Carolina**. 2014. Die Effekte von Koalitionspräferenzen und -erwartungen auf Wahlentscheidungen in Verhätniswahlsystemen. Münchener Beiträge zur Politikwissenschaft.](https://epub.ub.uni-muenchen.de/21845/)
 
