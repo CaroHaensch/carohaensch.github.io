@@ -34,9 +34,6 @@ Strasser-Ceballos, C., & Haensch, A. Determinants of Psychological Intimate Part
 
 [von der Heyde, L., **Haensch, A.**, & Wenz, A. (2025). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion. Social Science Computer Review.](https://doi.org/10.1177/08944393251337014)
 
-<details>
-<summary>Show more</summary>
-
 [Ewald, L. M., Bellettiere, J., Farag, T. H., Lee, K., Palani, S., Castro, E., Deen, A., Gillespie, C. W., Huntley, B. M., Tracy, A., **Haensch, A.**, Kreuter, F., Weber, W., Zins, S., La Motte-Kerr, W., Li, Y., Stewart, K., Gakidou, E., & Mokdad, A. H. (2025). Insights on Pandemic Recovery: A Comprehensive Analysis from a 21-Country Online Survey. International Journal of Public Health.](https://doi.org/10.3389/ijph.2025.1607884)
 
 [Sommer, F., Schade, R., Prokosch, D., Bertolini Coelho, I, **Haensch, A.** (2025). Die (Un)wirksamkeit der Mietpreisbremse: die Ergebnisse der Mieten-Umfrage München. GuG - Grundstücksmarkt und Grundstückswert 2025 (2).](https://shop.wolterskluwer-online.de/rechtsgebiete/zivilrecht-zivilprozessrecht/grundstuecks-immobilienrecht/21800502-gug-grundstuecksmarkt-und-grundstueckswert-heft-2-2025.html)
@@ -61,7 +58,6 @@ Strasser-Ceballos, C., & Haensch, A. Determinants of Psychological Intimate Part
 
 [**Haensch, Anna-Carolina**. 2016. "Armutsgefährdung in Berlin und Brandenburg 2014: Eine Analyse nach Lebensformen und Risikolagen." Zeitschrift für amtliche Statistik Berlin Brandenburg 10 (1): 36-41.](https://www.statistik-berlin-brandenburg.de/produkte/zeitschrift/2016/HZ_201601.pdf)
 
-</details>
   
 ### Conference Papers
 
@@ -71,8 +67,7 @@ Ma, B., Cao, Y., Sen, I., **Haensch, A.**, Kreuter, F., Plank, B., & Hershcovich
 
 [Fuchs, A., Noltenius, E., Weinzierl, C., Ma, B., & **Haensch, A.** (2025): Measuring Sexism in US Elections: A Comparative Analysis of X Discourse From 2020 to 2024. Proceedings of the 6th Workshop on Computational Approaches to Discourse, Context and Document Level Inferences (CODI 2025).](https://aclanthology.org/2025.codi-1.12/)
 
-<details>
-<summary>Show more</summary>
+
 
 [Kononykhina, O., **Haensch, A.**, & Kreuter, F. (2025). Mind the Gap: Gender-based Differences in Occupational Embeddings. Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP).](https://aclanthology.org/2025.gebnlp-1.7/)
 
@@ -84,15 +79,14 @@ Ma, B., Cao, Y., Sen, I., **Haensch, A.**, Kreuter, F., Plank, B., & Hershcovich
 
 [**Haensch, A.**, Ball, S., Herklotz, M., & Kreuter, F. (2024). Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data. IEEE BigSurv 2023 Conference Proceedings.](https://www.proceedings.com/74084.html)
 
-</details>
+
 
 ### Books and misc
 
 #### Books
 Kohler, U., Kreuter, F., & Haensch, A.-C. Data Analysis Using Stata. In preparation at Stata Press.
 
-<details>
-<summary>Show more</summary>
+
 [**Haensch, A.**, Feder, B., Lane, J., Tombari, A., & Kreuter, F. (2024): Data Literacy and Evidence Building. Leanpub.](https://leanpub.com/dlev)
 
 [**Haensch, Anna-Carolina**. 2021. Dealing with various flavors of missing data in ex-post survey harmonization and beyond. PhD Dissertation. University of Mannheim.](https://madoc.bib.uni-mannheim.de/59940/) 
@@ -120,7 +114,7 @@ Kohler, U., Kreuter, F., & Haensch, A.-C. Data Analysis Using Stata. In preparat
 
 [CTIS UMD team at UMD and Facebook (2022). The University of Maryland Social Data Science Center Global COVID-19 Trends and Impact Survey in partnership with Facebook.](https://covidmap.umd.edu/)
 
-</details>
+
 
 ### Education
 
@@ -148,8 +142,7 @@ Kohler, U., Kreuter, F., & Haensch, A.-C. Data Analysis Using Stata. In preparat
 *University of Maryland* <br>
 *International Program in Survey and Data Science*  <br>
 
-<details>
-<summary>Show more</summary>
+
 
 **Postdoctoral researcher** 04/2021-12/2023 <br>
 *University of Munich* <br>
@@ -172,7 +165,7 @@ Kohler, U., Kreuter, F., & Haensch, A.-C. Data Analysis Using Stata. In preparat
 *Leibniz-Institute for Educational Trajectories (LIfBi e.V.)* <br>
 *Statistical Office for the Regions Berlin and Brandenburg:* Mikrozensus.<be
 
-</details>
+
 
 ## Invited talks
 
@@ -184,8 +177,7 @@ Computational Social Science: AI and Society – Exploring Inequality in the Dig
 
 BBAW Vorlesung der Technikwissenschaftliche Klasse 2024 - 28.11.2024 "Vertrauenswürdige KI: Warum ist das wichtig und worauf kommt es an?" (zusammen mit Tobias Schaeffter)
 
-<details>
-<summary>Show more</summary>
+
 
 CPSS @ KONVENS 2024 - 13.09.2024 "LLMs in Political and Social Science Research" 
 
@@ -199,7 +191,7 @@ B-IT Lecture Series - 07.12.23 "Can large language models predict how people vot
 
 NFDI Series Show & Tell - 11.11.22 – Social Media-Daten in der Forschungspraxis II - Things to know when working with reddit data
 
-</details>
+
 
 ### Selected conference presentations
 
@@ -209,8 +201,7 @@ JSM 2024 - Invited Panel Session: Future of Statistics and Data Science in the E
 
 IC2S2 2024 - Oral presentation "Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion."
 
-<details>
-<summary>Show more</summary>
+
 
 AAPOR 2023 (presented by Leah von der Heyde) - Oral presentation "Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion."
 
@@ -228,7 +219,7 @@ BigSurv 2020 - Oral presentation "Using supervised classification for categorizi
 
 JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental Individual Person Data with Heterogeneous Weighting Schemes"
 
-</details>
+
 
 ## Teaching
 
@@ -245,8 +236,7 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 
 - "Fine Tuning LLMs for Data Augmentation and Synthesis" (with Tobias Holtdirk) AAPOR Pre-Conference. May 2025.
 
-<details>
-<summary>Show more</summary>
+
 
 - "Fine Tuning LLMs for Data Augmentation and Synthesis" (with Tobias Holtdirk) New Directions: Bridging Natural Language Processing (NLP) and Survey Research at SurvAI-Day. October 2024
 
@@ -270,14 +260,13 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 
 - "SURV748: Step by Step in Survey Weighting." International Program in Survey and Data Science. Spring 2021.
 
-</details>
+
 
 ### Seminars (Undergraduate level)
 
 - "SURV699M: Review of Statistical Concepts." International Program in Survey and Data Science. Summer 2025.
 
-<details>
-<summary>Show more</summary>
+
 
 - "SURV699M: Review of Statistical Concepts." International Program in Survey and Data Science. Summer 2024.
 
@@ -299,7 +288,7 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 
 - "Introduction to Data Collection."  University of Mannheim. Winter 2017: 2 SWS.
 
-</details>
+
 
 ### Lecture (Undergraduate level)
 
@@ -309,8 +298,7 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 
 - "Statistics II for Social Scientists." University of Munich. Summer 2024: 4 SWS.
   
-<details>
-<summary>Show more</summary>
+
 
 - "Statistics I for Social Scientists." University of Munich. Winter 2024: 4 SWS. 
 
@@ -324,12 +312,11 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 
 - "Statistics I for Social Scientists." University of Munich. Winter 2021: 4 SWS.
 
-</details>
+
 
 ### Teaching Assistant 
 
-<details>
-<summary>Show more</summary>
+
 
 
 - "SURV699: Introduction to Official Statistics." (taught by Walter Radermacher) International Program in Survey and Data Science. 
@@ -338,7 +325,7 @@ JSM 2018 - Oral presentation "Meta-Analysis of Survey-Based, Non-Experimental In
 - "Introduction to Empirical Research Methods in Political Science." (taught by Paul Thurner) Ludwig-Maximilians-Universität (LMU) München SS 2017.
 - "Meta-Analysis in Social Research and Survey Methodology." (together with Bernd Weiß and Jessica Wengrzik) GESIS Summer School 2018.
 
-</details>
+
 
 # Mix
 
