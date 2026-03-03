@@ -32,7 +32,7 @@ My research focuses on:
 - **Haensch, A.** & Schunck, R. (2024). Multiple Imputation for Systematically Missing Partner Variables in Survey Data. *Sociological Methodology*.  
 - Drechsler, J. & **Haensch, A.** (2024). 30 Years of Synthetic Data. *Statistical Science*.
 
-<details>
+<details markdown="1">
 <summary><strong>Full list of publications</strong></summary>
 
 ### Working Papers / Under Review
@@ -126,7 +126,7 @@ I also work on research software and data products that support survey methodolo
 - **R package**: [CTIS. R based Global COVID-19 Trends and Impact Survey Microdata and Opendata API Interface (with Yue Xiong).](https://github.com/CaroHaensch/CTIS)  
 - **Survey data products**: Pandemic recovery and synthetic data resources for teaching and research.
 
-<details>
+<details markdown="1">
 <summary><strong>Full list of data and survey products</strong></summary>
 
 #### R package
@@ -207,7 +207,7 @@ I regularly give talks and keynotes on survey methodology, missing data, synthet
 - BBAW Lecture Series (2024): *Vertrauenswürdige KI: Warum ist das wichtig und worauf kommt es an?* (with Tobias Schaeffter)  
 - GESIS Lecture Series (2023): *Can large language models predict how people vote? Evidence from Germany*  
 
-<details>
+<details markdown="1">
 <summary><strong>Full list of invited talks and conference presentations</strong></summary>
 
 ### Invited Talks
@@ -286,7 +286,7 @@ I teach statistics and data science at the bachelor, master, and PhD level, with
 - ~15 Master theses (Statistics, LMU Munich, since 2022) on LLM-based synthetic data, missing data, and ML in the social sciences.  
 - ~18 Bachelor theses in statistics and sociology on synthetic data, multiple imputation, and survey motivation.
 
-<details>
+<details markdown="1">
 <summary><strong>Full list of supervised theses and courses</strong></summary>
 
 ### Supervised Theses
