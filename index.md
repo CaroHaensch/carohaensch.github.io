@@ -3,11 +3,9 @@ layout: default
 ---
 
 **Anna-Carolina Haensch**  
-Lecturer in Statistics & Data Science · University of Munich  
+[Lecturer in Statistics & Data Science · University of Munich](https://www.stat.lmu.de/soda/en/team/contact-page/anna-carolina-haensch-10689cb3.html)
 Assistant Research Professor · University of Maryland  
 
-[LinkedIn](https://de.linkedin.com/in/anna-carolina-haensch-626b1b16a) ·
-[University of Munich Profile](https://www.stat.lmu.de/soda/en/team/contact-page/anna-carolina-haensch-10689cb3.html)
 
 I work at the intersection of **statistics**, **computational social science**, and **natural language processing**.  
 My research focuses on **missing data**, **synthetic data**, and **large-scale social science data**, and I publish in both traditional statistics and methods journals as well as NLP conference proceedings.  
