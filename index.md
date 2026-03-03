@@ -2,7 +2,6 @@
 layout: default
 ---
 
-**Anna-Carolina Haensch**  
 [Lecturer in Statistics & Data Science · University of Munich](https://www.stat.lmu.de/soda/en/team/contact-page/anna-carolina-haensch-10689cb3.html)
 Assistant Research Professor · University of Maryland  
 
@@ -13,14 +12,6 @@ I also care deeply about **teaching** and about making statistical and computati
 
 If you have any questions, please feel free to get in touch.
 
----
-
-## Recent Highlights
-
-- **Research**: New work on using large language models for coding German open-ended survey responses on survey motivation (Survey Research Methods, 2025).  
-- **LLMs & Public Opinion**: Studies on whether and how language models can approximate or support the measurement of public opinion in Germany and beyond.  
-- **Teaching**: Graduate courses on survey weighting, data science for survey researchers, and the use of LLMs for data augmentation and synthesis.  
-- **Grants**: LMU sustainability and teaching innovation grants on statistical education and generative AI in social sciences.
 
 ---
 
