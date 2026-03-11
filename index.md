@@ -2,14 +2,14 @@
 layout: default
 ---
 
-Lecturer in Statistics & Data Science · University of Munich
+**Lecturer in Statistics & Data Science · University of Munich**
 
-Assistant Research Professor · University of Maryland  
+**Assistant Research Professor · University of Maryland**
 
 
-I work at the intersection of **statistics**, **computational social science**, and **natural language processing**.  
-My research focuses on **missing data**, **synthetic data**, and **large-scale social science data**, and I publish in both traditional statistics and methods journals as well as NLP conference proceedings.  
-I also care deeply about **teaching** and about making statistical and computational methods accessible – mostly using **R** and **Python**.
+I work at the intersection of statistics, computational social science, and natural language processing.  
+My research focuses on missing data, synthetic data, and large-scale social science data, and I publish in both traditional statistics and methods journals as well as NLP conference proceedings.  
+I also care deeply about teaching and about making statistical and computational methods accessible – mostly using R and Python.
 
 If you have any questions, please feel free to get in touch.
 
