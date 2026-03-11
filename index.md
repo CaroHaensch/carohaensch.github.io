@@ -291,6 +291,12 @@ I teach statistics and data science at the bachelor, master, and PhD level, with
 
 I am involved in academic service and have received several awards and grants for research and teaching.
 
+### Board Memberships and Committees
+
+- 2024–2026 Eurostat EMOS Board  
+- 2023–2025 Ethikkommission Fakultät 16 LMU  
+- 2024–2026 Frauenbeauftragte, Institut für Statistik, LMU  
+
 ### Awards and Stipends
 
 - 2022 AAPOR Burns “Bud” Roper Fellow Award  
@@ -304,11 +310,6 @@ I am involved in academic service and have received several awards and grants fo
 - 2024–2025 ~20,000 Euro, LMU Teaching Innovation Grant for RAINER – R Assistant IN Error Resolution  
 - 2023 ~10,000 Euro LMU–NYU Scholarship  
 
-### Board Memberships and Committees
-
-- 2024–2026 Eurostat EMOS Board  
-- 2023–2025 Ethikkommission Fakultät 16 LMU  
-- 2024–2026 Frauenbeauftragte, Institut für Statistik, LMU  
 
 ---
 
