@@ -116,20 +116,6 @@ Kohler, U., Kreuter, F., & Haensch, A.-C. *Data Analysis Using Stata*. In prepar
 
 [**Haensch, Anna-Carolina**. 2014. Die Effekte von Koalitionspräferenzen und -erwartungen auf Wahlentscheidungen in Verhältnisswahlsystemen. *Münchener Beiträge zur Politikwissenschaft*.](https://epub.ub.uni-muenchen.de/21845/)
 
-</details>
-
----
-
-## Data & Software
-
-I also work on research software and data products that support survey methodology and data science.
-
-- **R package**: [CTIS. R based Global COVID-19 Trends and Impact Survey Microdata and Opendata API Interface (with Yue Xiong).](https://github.com/CaroHaensch/CTIS)  
-- **Survey data products**: Pandemic recovery and synthetic data resources for teaching and research.
-
-<details markdown="1">
-<summary><strong>Full list of data and survey products</strong></summary>
-
 #### R package
 
 [CTIS. R based Global COVID-19 Trends and Impact Survey Microdata and Opendata API Interface (with Yue Xiong).](https://github.com/CaroHaensch/CTIS) 
@@ -144,57 +130,7 @@ I also work on research software and data products that support survey methodolo
 
 </details>
 
----
-
-## Education
-
-I am trained in sociology, survey statistics, and political science.
-
-**PhD, Sociology** (10/2017–06/2021)  
-*University of Mannheim, Germany*  
-
-**M.Sc., Survey Statistics** (09/2014–09/2017)  
-*University of Bamberg, Germany*  
-
-**B.A., Political Science/Sociology** (09/2011–09/2014)  
-*Ludwig-Maximilians-Universität (LMU) München, Germany*  
-
----
-
-## Professional Experience
-
-My work combines research, teaching, and applied projects in survey methodology and data science.
-
-**Lecturer (Akademische Rätin a.Z.)** (since 01/2024)  
-*University of Munich*  
-Chair of Statistics and Data Science in Social Sciences and the Humanities  
-
-**Assistant Research Professor** (since 08/2021)  
-*University of Maryland*  
-International Program in Survey and Data Science  
-
-**Postdoctoral Researcher** (04/2021–12/2023)  
-*University of Munich*  
-Chair of Statistics and Data Science in Social Sciences and the Humanities  
-
-**Postdoctoral Researcher** (10/2021–12/2021)  
-*Institute for Employment Research*  
-High-frequency Online Personal Panel (HOPP): Life and work situations in times of Corona  
-
-**Doctoral Researcher** (08/2019–02/2021)  
-*University of Mannheim*  
-International Program in Survey and Data Science  
-
-**Doctoral Researcher** (09/2017–04/2021)  
-*GESIS – Leibniz Institute for the Social Sciences*  
-
-**Student Assistant** (2012–2017) in several research institutions, including:
-
-- Institute for Employment Research: Statistical Methods Centre  
-- LMU Munich: Chair of Empirical Political Research and Policy Analysis  
-- Leibniz-Institute for Educational Trajectories (LIfBi e.V.)  
-- Statistical Office for the Regions Berlin and Brandenburg: Microcensus  
-
+--
 ---
 
 ## Talks
