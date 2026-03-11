@@ -131,7 +131,6 @@ Kohler, U., Kreuter, F., & Haensch, A.-C. *Data Analysis Using Stata*. In prepar
 
 </details>
 
---
 ---
 
 ## Talks
