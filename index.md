@@ -11,7 +11,8 @@ I work at the intersection of statistics, computational social science, and natu
 My research focuses on missing data, synthetic data, and large-scale social science data, and I publish in both traditional statistics and methods journals as well as NLP conference proceedings.  
 I also care deeply about teaching and about making statistical and computational methods accessible – mostly using R and Python.
 
-If you have any questions, please feel free to get in touch.
+If you are interested in collaboration, teaching material, or data resources, feel free to reach out via my institutional profiles or LinkedIn.
+
 
 
 ---
@@ -313,4 +314,3 @@ I am involved in academic service and have received several awards and grants fo
 
 ---
 
-If you are interested in collaboration, teaching material, or data resources, feel free to reach out via my institutional profiles or LinkedIn.
