@@ -24,7 +24,6 @@ Contact: [C.Haensch@lmu.de](mailto:C.Haensch@lmu.de) · [SODA profile](https://w
 
 ### Selected Publications
 
-- Fuchs, A., **Haensch, A.-C.**, & Weber, W. (accepted). AI for Survey Design: Generating and Evaluating Survey Questions with Large Language Models. *Public Opinion Quarterly*.
 - **Haensch, A.-C.** & Haziza, D. (forthcoming). On the Use of Artificial Intelligence and Machine Learning for Official Statistics. *The Canadian Journal of Statistics*.
 - von der Heyde, L., **Haensch, A.-C.**, & Wenz, A. (2026). Vox Populi, Vox AI? Using Large Language Models to Estimate German Vote Choice. *Social Science Computer Review*, 44(3), 549–571.
 - **Haensch, A.-C.** & Schunck, R. (2025). Multiple Imputation for Systematically Missing Partner Variables in Survey Data. *Sociological Methodology*, 55, 269–299.
